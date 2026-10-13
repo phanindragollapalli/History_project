@@ -1,0 +1,25 @@
+Documents: 13438, 13664
+Distinct words overall: 81,230
+Words common to all documents (>= 3 each): 4,927
+
+Top 20 common words (combined count):
+  tho: 5473
+  found: 2194
+  clan: 1425
+  aro: 1132
+  called: 1023
+  tribe: 897
+  agricultural: 802
+  name: 543
+  son: 513
+  tribes: 499
+  caste: 487
+  origin: 485
+  bat: 474
+  given: 460
+  family: 457
+  women: 431
+  mult: 421
+  und: 413
+  montgomery: 412
+  though: 403

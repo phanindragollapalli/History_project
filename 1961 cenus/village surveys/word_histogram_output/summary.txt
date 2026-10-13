@@ -1,0 +1,25 @@
+Documents: brahmaur, chitrari, maingal
+Distinct words overall: 15,472
+Words common to all documents (>= 3 each): 812
+
+Top 20 common words (combined count):
+  village: 531
+  people: 348
+  house: 255
+  chamba: 249
+  used: 240
+  land: 208
+  brahmaur: 204
+  women: 190
+  time: 187
+  day: 183
+  marriage: 179
+  number: 177
+  family: 176
+  household: 171
+  temple: 167
+  small: 165
+  years: 163
+  given: 163
+  place: 159
+  gaddi: 158

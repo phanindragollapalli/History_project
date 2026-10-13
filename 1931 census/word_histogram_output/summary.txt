@@ -1,0 +1,25 @@
+Documents: punjab1931_part1, vol17_1931_part1
+Distinct words overall: 33,914
+Words common to all documents (>= 3 each): 2,839
+
+Top 20 common words (combined count):
+  number: 1578
+  population: 1545
+  figures: 1230
+  census: 1033
+  age: 893
+  punjab: 889
+  proportion: 851
+  state: 824
+  province: 772
+  increase: 769
+  last: 769
+  persons: 761
+  hindu: 703
+  females: 684
+  districts: 669
+  caste: 632
+  area: 600
+  decade: 569
+  males: 547
+  district: 547

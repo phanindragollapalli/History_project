@@ -1,0 +1,1248 @@
+This document was downloaded by: Aniket Alam (International Institute of Information Technology, Hyderabad)
+
+http://www.southasiaarchive.com/Content/sarf.100010/202789/001
+
+On: 09 Sep 2017 at 02:16:27
+
+Publisher: Taylor & Francis
+
+Informa Ltd Registered in England and Wales
+
+Registered Number: 1072954
+
+Registered Office: 5 Howick Place, London SW1P 1WG, UK
+
+Full terms and conditions of use: http://www.southasiaarchive.com/Terms-and-Conditions
+
+Taylor & Francis make every effort to ensure the accuracy of all the information (the “Content”) contained in our
+publications. However, Taylor & Francis, our agents, and our licensors make no representations or warranties
+whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. Any opinions and views
+expressed in this publication are the opinions and views of the authors, and are not the views of or endorsed by Taylor
+& Francis. The accuracy of the Content should not be relied upon and should be independently verified with primary
+sources of information. Taylor & Francis shall not be liable for any losses, actions, claims, proceedings, demands,
+costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly in
+connection with, in relation to or arising out of the use of the Content.
+                       REPORT
+                                 ON THE
+
+
+
+
+CENSUS OF                               THE PANJAB
+                           TAKEN ON THE
+
+
+
+          ,7TH     OF FEBRUARY 1881.
+
+
+                                   BY
+
+           D E N Z I L CHARLES J E L F IBBETSON,
+                  OF HER MAJESTY'S BENGAL CIVIL SERVICE.
+                                                                          ••   -   -
+
+
+
+
+                         VOLUME              I.
+
+     T E X T ; AND A P P E N D I C E S                     C   AND   D.
+          (SUPPLEMENTARY TABLES AND INSTRUCTIONS.)                   •
+
+
+
+
+         F I N A L T A B L E S IN VOLUMES II AND III.
+
+
+
+
+                             CALCUTTA:
+ PRINTED BY THE SUPERINTENDENT OF GOVERNMENT PRINTING, INDIA.
+                                  1883.
+                                                                      PREFACE.
+
+ T N writing the accompanying report on the Panjab Census of 1881, I have steadily kept two
+ •*• main objects before me. Firstly, I have attempted to produce a work which shall be use-
+ful to District officers as a handbook of reference on all the Subjects dealt with in the Census
+Schedules, and which shall stand with regard to such subjects in a position somewhat similar
+to that occupied by the modern Settlement Report in respect of revenue matters.          Secondly,
+I have endeavoured to record in some detail the experience gained at this Census, for guid-
+ance on the occasion of future enumerations. My pursuance of each of these objects has
+helped to swell the size of the report.
+
+     It would have been easy to write a short notice of some of the more obvious conclusions
+to be drawn from the Census totals of the Province as a whole ; and such a notice would
+doubtless have technically sufficed as a report to Government upon the operations which I
+had superintended. But it would have been of small use for future reference, and would
+have served no purpose beyond that of furnishing the text for a Government resolution. A
+Census report is not meant merely for the information of the Secretariat ; it is intended to be
+constantly referred to in every office of the Province. T h e mere results would ill serve this
+end in the absence of an interpreter. It is of but small advantage lo east voluminous tables
+of naked figures at the heads of District officers, without at the same time explaining what
+they represent, which can be done by no one- but him who compiled them, and drawing from
+them the more important conclusions to which they lead, which few will draw but he whose
+special business it is to do so '.
+
+     In the ordinary routine of district work, information is constantly needed regarding
+some feature or other of the society which we govern. That information often exists In print ;
+but in India libraries are few and books scarce; while where the latter are available, they are
+often too detailed or too learned (or the practical purposes of the District ollieor. It has been
+my endeavour to furnish such a sketch of the salient features of native society in the I'anjab
+as will often supply the immediate ived, and at the same time to indicate where, if any-
+where, further details may be found. A Census report is not light reading; and men take il up,
+not to read it through, but lo obtain from it information on some definite point. It is there-
+fore more important that it should be complete than that it should be brief, and so long
+as its arrangement directs the student at once to the place where he will find what In: wauls,
+without compelling him to wade through irrelevant matter, the fuller (he information which
+he there finds on the subject, the more valuable will the report be to him. 1 have therefore
+omitted nothing relevant that seemed to me to be interesting or useful, simply because it oc-
+
+  cupied spac
+        T h e difficulty of an Indian C e n s u r r ' n S s m a l n , > ' f r o m lK0 ™"rces ; the infinite diver-
+  sity of the material to be dealt with, a n T o u ? ^ - ) ^ 1 1 ' 1 1 - ' p r a n c e of that mat erial. The-
+  present Census was, as regards ' h e Par-^h and in resp.'; o f i l s minuteness and accuracy
+  of detail, practically a first v tperiment ; and one of its mosT :i !. ;LI;,''; r ( ' s u l t s has been 10
+  show us where our chief difficulties lie, and how and why we have on i'h,.-; rjcca."1 frequently
+  failed to overcome them. If the present Census had been one for all time, ','','".';•'
+  more would have been needed than such a brief account of the operations as would have ev
+                                                                                             .                     n,
+  plained to the student of the results how those results had been obtained. If, on the otlu,.,-
+  hand, a Census were of annual recurrence, an " office," with its permanent staff and trad-' 1
+  tions, would have taken the place of the record of the experience which I have atlemp
+        1
+          Much of the length of the report is dye to tin-, e x c e p t i o n a l l y large n u m b e r of t h e ndrninisfrafivc units f.,f w | , ; f | , ,|,,,
+ figures had to b e discussed     ( S e e section 929, page 468. ,* T h e N a t i v e S t a l e s took g r e a t pains with t hi C e n s u . . ; a n d , a p a r t !' ' n   ^i:",>''
+ trinsic value of the results, it would have been ungracious to c'iscuss their figures less fully than our own.
+to frame. But the operations will be repeated after intervals of ten years. It has therefore
+been my endeavour to record the experience now" gained in such detail as may enable us to
+avoid past errors on a future occasion, to point out every defect that the test of actual practice
+disclosed in the scheme, and to put forth every suggestion that my experience led me to
+think could be of use to my successor in 1891.
+
+     Till now nothing of the sort has been attempted in the Panjab. The meagre report on
+the Census of 1868 affords no record of the experience of the past or suggestions for guid-
+ance in the future; while though Settlement reports and similar publications contain a vast
+mass of invaluable information regarding the people, it is scattered and fragmentary, and
+needed to be collected, compared, and consolidated. A Census recurs only after considerable
+intervals, and it will not be necessary on each subsequent occasion to rewrite the whole of the
+present report. Much will be a d d e d ; more will be corrected ; the new figures will be ex-
+amined and compared with the present ones; the old conclusions will be modified, and new
+ones drawn. But the main groundwork of the report will stand unaltered.
+
+      I have not absolutely confined myself in the following pages to facts and figures which
+will be immediately useful for t h e actual purposes of administration. I have not hesitated
+to enter occasionally into general discussions on certain subjects, such as religion and caste,
+and to express my own views on the matter. I venture to think that these digressions are
+not the least interesting portions of the volume ; and in a report which must of necessity
+consist for the most part of a dry discussion of figures, any passage of general interest is
+welcome, if only as a relief. But my chief object in entering upon these discussions has been,
+to draw the attention of my readers to the extraordinary interest of the material which lies in
+such abundance ready to the hand of all Indian officials, and which would, if collected and
+recorded, be of such immense value to students of sociology. Our ignorance of the customs
+and beliefs of the people among whom we dwell is surely in some respects a reproach to us ; for
+not only does that ignorance deprive European science of material which it greatly needs,
+but it also involves a distinct loss of administrative power to ourselves. And if aught that
+I have written in this report should incline any from among my readers to a study of the
+social and religious phasnomena by which they are surrounded, I at any rate shall be
+amply repaid for my labour.
+
+        Moreover, Indian official literature is gradually gaining for itself students from beyond
+the limits of India, and European scholars are turning to it for the facts of which they find
+themselves in need! In his Village Communities          (pages 34-5) Sir Henry Maine writes of
+Indian Settlement reports: " They constitute a whole literature of very great extent and
+" variety, and of the utmost value and instructiveness. I am afraid I must add that the
+" English reader, whose attention is not called to it by official duty, not unusually finds it
+" very unattractive or even repulsive. But the reason I believe to be, that the e l e m e n t —
+" knowledge which is the key to it has for the most part neve- u
+ " all." I see no reason why an Indian report should o(
+ b l e ; and I have ventured, here and th°--
+ would perhaps be superfluous if ? J '
+
+     T h e more v "1 1o "
+impre==
+                                                            . . E.-ACE.
+
+
+
+to some parts at least of the Panjab. Yet I do not think that the uncertain value which
+attaches to the information that I have recorded renders that information less worthy of record.
+In matters such as are discussed in this report, the next best thing to having them put
+rightly is to have them put wrongly, if only the wrongness be an intelligent wrongness ; for
+so we stimulate inquiry and provoke criticism; and it is only by patient and wide-spread in-
+quiry and incessant and minute criticism, that we can hope to arrive on these subjects at
+accurate information and sound generalisations. Nothing would be so welcome to me as to
+find the officers of the Province setting to work to correct and supplement the information
+given in my report; for the more holes'they will pick and the more publicly they will pick
+them, the faster shall we extend and improve our knowledge of the matters discussed \
+
+      I need not apologise for the many and palpable defects of the report, so far as they are
+due to the haste with which all official publications have to be prepared. Pages which have
+been written against time in the first instance, which have been sent to press often without
+even the most cursory revision, and which, when once in type, the writer has not felt at liberty
+to improve save by the most trifling corrections, must not be judged by any literary standard.
+But I must, in justice to myself, be allowed to make one explanation which will account for
+much hurried and slovenly work that is only too apparent in the following pages. On the 13th
+of January 1883, I received orders from the Panjab Government to the effect that the report
+must be finished without fail by the end of the following February. When these orders reached
+me, I had completed only Chapters I, II, and IV, and the first two Parts of Chapter III ; while
+Part II of Chapter VI which deals with Pathans and Biloches, and the greater portion of
+Chapters XI and XII and of the first two Parts of Chapter XIII, were written in the rough,
+though exceedingly incomplete. Thus I had six weeks allowed me within which to fill in
+the lacunce in these last sections, to discuss increase and decrease of population, language,
+caste with the exception of Pathdns and Biloches, age, sex, and civil condition, occupations,
+education, and infirmities, and to summarise the results of our Census experience. The portion
+of the report which was wholly written within these six weeks comprises some 260 pages of
+print. It is hardly to be wondered that my treatment of these subjects is hasty and imperfect.
+My own feeling on looking back, is one of surprise that I accomplished the task after any
+fashion whatever. But on the 26th of February the MS. of my report was completely ready
+for press, and has not been touched since then. The press has been kept fully supplied with
+copy from the end of October 1882; and the subsequent delay is wholly due to the .difficulty
+experienced in getting the report printed and published.
+
+     I need hardly say how largely I am indebted to others for both facts and ideas. The
+greater part of the information contained in the report has been either taken from scattered
+publications and from district Settlement or Census Reports, or furnished me by correspondents.
+I owe much to Mr. Wilson's Code of Tribal Custom in Sirsa and to Mr. Barkley's notes on the
+Jalandhar district, both of which the writers placed in my hands in MS., and to Mr. Tupper's
+work on Panjab Customary Law ; while every chapter of the report attests my obligations to
+Mr. Alexr"Anderson"'for the prom"ptr~3md_complete manner in which he answered my numerous
+                                                    c
+inquiries about, the peculiar and interest'-          which he was in charge. In one respect
+ I was singularly ill fitteujor the f                  "ne; for practically speaking my whole
+ Indian service had been confined to a single district (Kaii.il). which does not even lie in the
+ Panjab proper. Thus I have been throughout in the greatest danger of wrouj,-., -^tending to
+ the Province as a whole, knowledge acquired in a small and very special portion of it. , l n
+ hardly hope that I have altogether escaped this pitfall; but that I have not fallen into u irn, ,
+ frequently, is wholly due to the invaluable assistance rendered me by Messrs. Alex. Anderson,
+  Coldstream, Douie^ O'Brien, Steedman, Thomson, and Wilson. These gentlemen have carefully
+ read the proofs of the report as they issued from the press ; and their criticisms have enabled
+  me to correct many faults and -errors, and to add much that is valuable. I cannot express too
+      1 I would suggest the pages of Panjib Notes and Queries, a small periodical just started under the Editorship of Captain   Temrle
+ o£ AmbSla, as a convenient medium for discussion.
+                                                                                                                        3
+                                              PREFACE.
+
+
+ strongly my obligation to them for undertaking and carrying through in their hardly-earned
+ leisure, so tedious and uninteresting a task. My warmest t h a n k s are also due to Messrs.
+Cunningham, Douie, and Merk for valuable help unsparingly given on all points relating to the
+frontier tribes ; to Major Plowden for his careful examination of the sections on the Pathans
+and their language ; to Mr. Christie for his copious and suggestive annotation of my discus-
+sion of the vagrant and criminal c l a s s e s ; to Mr. T u p p e r for much valuable help given in the
+earlier stages of the o p e r a t i o n s ; and to Dr. Dickson and the Rev. Mr. Wherry for the personal
+attention they most kindly bestowed on the C e n s u s printing, without which I should scarcely
+have succeeded in getting the work done. But these are only a few a m o n g the many who
+have helped me. I applied for assistance to many Officers of many Departments, and to none
+in vain ; and it is to the help thus received by me, t h a t whatever value my report may be found
+to possess is mainly due.
+
+      My warmest acknowledgments are due to Mr. W . C. Plowden, Commissioner of Census,
+for his ever ready help and counsel, for the patient consideration with which he listened to my
+difficulties and suggestions, and for the kind anxiety which he evinced from first to last to do
+anything and everything that might make m a t t e r s easierfor me, so far as the unity of the Im-
+perial scheme permitted.
+
+     Finally, I would express my grateful sense of the courtesy and consideration which 1 ex-
+perienced at the hands of district officers throughout the operations. My position as Superin-
+tendent of the Census was one of some d e l i c a c y ; for it obliged me to inspect, criticise, and
+report on the work of officers much senior to myself. T h a t my relations with those olVn i r -
+were throughout of the most pleasant and cordial nature, is due to a good-feeling on their p a n
+for which I am indebted to them.
+
+
+                                                                     DEXZIL      IBBETSOX
+          SIMLA ;
+  The joth August   iSSj.
+                                                                      T A B L E O F • ' C O N T E N T S - V O L . I.
+
+
+    : TEXT OF REPORT, SUPPLEMENTARY TABLES, AND INSTRUCTIONS.
+                                -                                 ,                                                                                        Pages
+     Book I      . The Results of the Census                       i—418
+           n
+    ".'».    .  •  The  Operations   of the Census   .   .   . . 419—489
+     Appendix C. Supplementary Tables . . .                      491—519
+          „    D.  Instructions for the  Census.   .   .   .     521—545
+                                                                      Note.—Appendices A and B (Final Tables for. British Territory and Native
+                                                                              States) will be found in Volumes II and III respectively.
+
+
+
+                                                                         BOOK I.-THE RESULTS OF THE CENSUS.
+     Chapter                                 I                                                                                                                '—15
+                                                                        Part     I.—Brief Description of the Province .     ,                                 i _
+                                                                                                                                                                  7
+                                                                         „      II.—Short Account of the Census Operations                                    8-15
+                                          II                          The Distribution of the People           .    .   .     .         .       .           16—47
+                                                                        Part_.   I.—Distribution over Towns and Villages ,                                  16—27
+                                                                         ,,     II.—.      „     among Districts and States                                 28—31
+                                                                                                                                                            32—39
+                                                                          ,,     IV.—       „      among Houses and Families                                40—47
+                                       »i                                                                                                                   4S—99
+                                                                                                                                                            48-57
+                                                                          ,,     II.—Migrations of the People       .    .          .   .       .           58-86
+                                                                          ,,    III.—Increase and Decrease of Population                                    87-99
+                                        IV                                                                                                                 100—154
+                                                                         Part    I.—Introductory and Comparative         .    .         .       .          100—no
+                                                                          ,}    II.—The Hindus of the Panjib       .   .     .          .       .          111—125
+                                                                          n.  III.—The Buddhists „       „                                                 126—129
+                                                                          „    IV,—The Jains        ,,         .   .   .     .          .       .          130— ! 33
+                                                                          „     V.—The Sikhs .      „    „                                                 134—141
+                                                                          „   VI,—The Musalmans ,,           ,   ,   .     .    .           .   .          142—150
+                                                                          „   VII.— The Christians „     „                                                 I5 1 —'52
+                                                                          „ VIII.—The Impure and Outcast Tribes          .    .         .       .          153—'54
+'    •         ii                             v                                                                                                            •55—'7 1 -
+                                                                       Part     I.—Introductory and Comparative         .   .   .   .                      155—160
+                                                                         ,,"   II.—The several Languages of the Panjab                                     161 —167
+                                                                         „    III.—Comparative Sketch of Hindi, Panjabi, and Sindhi .                      168—171
+'        , „                            VI                            The Races, Castes, and Tribes of the People       .   .   .   .                      172—341
+                                                                                                                                                           172—190
+                                                                            „        11.—The Biloch, Pathan, and Allied Races .                            191—218
+                                                                      _ " \ . r - • JIL—TheJat. .RaiEui. aalAUied Castes                                   219—252
+                                                                             '„     IV.—Minor Land-owning and AgriailteraLQastes .                         253—278
+                                                                             „       V.—Religious, Professional, Mercantile, and Mi~sceiten€-
+                                                                                                                                                    ' " " 370—304
+                                                                          it    VI.—Vagrant, Menial, and Artisan Castes                                   305—341
+          : „'•"                      VII .                                                                                                               342—375
+                                                                       Part       I.—The Ages of the People      .                                        342—354
+                                                                        ,,       II.—The Civil Condition of the People          .   . .                   355—366
+                                                                         „      III.—The Proportions of the Sexes          .  .    .  .                   367—375
+                ,.                    VIII                      -... The Occupations of the People . . .         .     .                                  376—400
+                                                                       Part       I.—General and Comparative         .   .   .    .   .                   376 — 391
+                                                                        .;, •'- II.—Detailed Notes on the several Groups of Occupations                   392—400
+      '-.•--„ •;          ix                                                                                                                              401—407
+     ' - . ; , ; • : r - . X . . : :• . Insanity, Blindness, Deaf-Dumbness, and Leprosy                                         .                         408—418
+
+          ..        ' : - . - • . •   • , - ; , . , - • : . .    ..
+                                                                                                                                                       i
+                 I
+                          •{ABLE OF CONTENTS—VOL. I.—TEXT OF REPORT, &C.
+
+
+                                                                                                                 Pages
+
+                       BOOK I I --THE OPERATIONS OF THE CENSUS.
+Chapter    XI          The Census of the Province             .     .     .     .       .       .       .       4 2 1 - -447
+                         Part       I ,—Preliminary Operations                                                  4 2 1 - -435
+                                  I I , —The Enumeration of the People                                          43°- -440
+                                 III. —Special Measures                                                         441- -447
+          XII          The Preparation of the Figures ,                                                         448--470
+                         Part       I ,—Abstracting the Figures                                                 448--454
+                                  I I , —Tabulation of the Figures                                              455--463
+                           „     HI. —Compilation of the Figures .                                              464-- 4 7 °
+          XIII         Minor Points and Suggestions .                                                           471--489
+                         Part       I. —Subsidiary Matters                                                      471--480
+                                  11. —Census in Native States                                                  481--482
+                           „     in. —Difficulties and Suggestions .                                             483--487
+                                 IV. —The Last          .   .     .     .                                        488-- 4 8 9
+Appendix C           , Supplementary     Tables         .   .     .     .                                        491-- 5 ' 9
+   » D                 Instructions for the Census              .     .     .       .       .       .       .    531-- 5 4 5
+                               TABLE O F CONTENTS.
+
+                      BOOK L-THE RESULTS OF THE CENSUS.
+                                         CHAPTER I.-INTR0DUCT0RY.
+
+                                 PART I.—BRIEF DESCRIPTION OF THE PROVINCE.
+
+
+
+      Historical and political importance of the Panjab                    Ethnography of Eastern Plains
+      Interest of the Panjab to the Ethnologist                            The Western Plains
+          „     „ „      „      >r i> Sociologist                          Natural divisions of Western Plains
+      Boundaries and administrative divisions                              Ethnography of Western Plains
+      The Himalayan Tract                                                  The Salt-Range Tract
+       „ Sub-montane „                .  .    .                           'Ethnography of Salt-Range Tract .
+        „ Eastern Plains .          .   .     .                            Summary of the above
+      Physical Divisions of Eastern Plains
+
+
+                            PART II.—SHORT ACCOUNT OF THE CENSUS OPERATIONS.
+      Previous Enumerations of the people         8   4i The Comedy of " C e n s u s "
+      General outline of the scheme of operations 8    42 The compilation of the figures .
+      Demarcation of Census Blocks                8    44 The Census in Native States
+      Numbering of houses         .   .   .     . 8    45 Accuracy of the results      .    .   .   .
+      Selection of agency                         9    4» The cost of the Census, direct and indirect                        *3
+      The preliminary record      .   .   .     .10    49 Answer to criticisms .     .    .    .    .
+      The Census itself     .   .   .   .   . i              IO     52 Value of the results      .    .    .   .             14
+      The attitude of the people                             II     53 Outline of the general scheme of the Report           14
+
+
+
+
+                        CHAPTER II.-THE DISTRIBUTION OF THE PEOPLE.
+
+                               PART I.—DISTRIBUTION OVER TOWNS AND VILLAGES.
+      Introductory                                            16    73 Figures for Indian Provinces compared
+      Meaning and value of the figures                        16    74 Proportions of urban and rural population in
+      General Abstract          .   .    .   .    .   .       17             each district                                   24
+      Distinction between town and village                    17    75 Figures for Indian Provinces compared                 25
+      Significance of the "village" unit                      19    70 Proportion of urban and rural population for
+      Distribution over villages and towns grouped                           each religion
+        according to size       .   .    .   .    .   .       19    77 Tendency of strangers- to collect in the towns
+      Figures for England and the Panjab compared             21    7S Proportions of urban and rural population for
+      Average population per village                         - 21            each sex                               ,
+      Conditions which determine the size of villages .       22
+
+
+
+                             PART II.—DISTRIBUTION AMONG DISTRICTS AND STATES.
+       Distribution of the population of the Province                      Indian charges    compared    with    European
+         by districts and states .      .     .    .     .                   Kingdoms
+       Distribution of the population of British Territory
+         by districts    ,
+
+
+                                          PART III.—DISTRIBUTION OVER AREA.
+       Density of the population                                           District figures examined       .                 35
+           „    „ rural population                                         Figures for Native States        .   .    .   .   36
+       Figures for Indian Provinces compared .                             Distribution of population over culturable and
+       Conditions which determine density of popula-                         cultivated areas     .    .    .   . . .        36
+         tion                                                              Distribution of villages over area                33
+
+
+                              PART IV.-DlSTRIBUTION AMONG HOUSES AND FAMILIES,
+ 97  Significance of " house " statistics                           108    The cultivating association   .
+ 99  Figures discussed     .     .     .    .   .                   109    The joint family, the house-community, and
+100  Conditions which determine the distribution by                          the village-community       .                   4+
+       houses                                                       no     Figures discussed                                 45
+102 Unoccupied houses          .     .    .   .   . .               lit
+                                                                           The Tibetan family in Spiti   .                   46
+104. The confocal family                                                   The family in Towns         .  . ,     .  ,       46
+106 The proprietary group                                                  Tendency towards severalty    .                   46
+                                                                                  TABLE         OF CONTENTS.
+
+
+Para,                                                                                        1 Page. II P;.fa. 1                                                                                        Pag*.
+
+
+
+
+                                            CHAPTER III.-FLl CTUATKNIS OF POPULATION.
+
+                                                                         PART I.— HISTORICAL RETROSPECT.
+ U4       G e n e r a l r a t e of i n c r e a s e of p o p u l a t i o n                        43      125       S i k h rule in t h e C e n t r a l D i s t r i c t s                                   52
+ "5       T h e P a n j a b d u r i n g t h e 18th c e n t u r y                                 49      126       Sawan Mai's administration                              .    .   .           .          52
+ 118        „          „        from 1800 A . D . to a n n e x a t i o n                         49      127       T h e P a n j a b u n d e r E n g l i s h rule                                          53
+ 119      S t a t e of t h e D e l h i T e r r i t o r y at a n n e x a t i o n                  50      128       P r i n c i p a l e v e n t s since a n n e x a t i o n                                 54
+ 120      S i k h rule in t h e Cis-Satluj S t a t e s                                           50      129       P r o g r e s s of the P r o v i n c e since a n n e x a t i o n                        54
+ 121      T h e c o n d i t i o n of t h e H i l l T r a c t s                                   50      130                                                                                               55
+ 122      S i k h rule on t h e frontier                           . . . . .                     5i      •31       C o n t r a s t b e t w e e n t h e two I n t e r - C e n s u s periods                 56
+ 124      T h e s t a t e of t h e C i s - I n d u s a n d S a l t - r a n g e T r a c t s       52
+
+
+
+                                                                   PART II.—MIGRATIONS OF THE PEOPLE.
+ '33                                                                                             53      157       M i g r a t i o n to a n d from t h e various S t a t e s of t h e
+ 134      T h e several t y p e s of m i g r a t i o n         .                                 58                                                         Eastern Plains .                               7'
+ 136                                                                                             59      '59                           „ „      „ Hill S t a t e s        .                                73
+ 138      Extra-Provincial migration                                .   .   .  .                 59      160              „            „ „      „ British D i s t r i c t s          .                     74
+ 139      I m m i g r a t i o n from o u t s i d e I n d i a                                     62      161       C o n d i t i o n s which d e t e r m i n e t h e p r o p o r t i o n of
+ 142                 „              „ Afghanistan                     .   .   *                  63                                                                                                        74
+          Emigration into the Bombay Presidency                                                  64      164       Effect of d e n s i t y of population upon m i g r a t i o n
+ us
+ 147      M i g r a t i o n to a n d from R a j p u t a n a                                      65      166       G a i n a n d Loss by m i g r a t i o n            .   .  .       .
+                                                                                                                                                                                                           77
+                                                                                                                                                                                                           73
+ 149               „          „ „           „      the N . - W . Provinces                       66      167       C o n c e n t r a t i o n of P o p u l a t i o n in the l a r g e r
+ I I
+  5       I m m i g r a t i o n from K a s h m i r                  .   .   . .                  68                                                                                                        73
+ 153      F i g u r e s for i n t r a - P r o v i n c i a l details   .                          69      170       T e n d e n c y of the R u r a l P o p u l a t i o n t o w a r d s D i s -
+ 155      M i g r a t i o n between British T e r r i t o r y a n d N a t i v e                                      persion                 .    .    .       .       .      .      .       .             79
+                                                                                                 70      •71       G e n e r a l S k e t c h of the M o v e m e n t s of the P a n j a b
+ 136      M i g r a t i o n to a n d from B a h a w a i p u r .                                  70                                                                                                        79
+
+
+                                                 PART III.—INCREASE AND DECRE ASE OF POPULATION.
+ 176                                                                                            87       186                                                                                              92
+ 178      Increase due to greater accuracy                               of   enume-                     iSS                          „ 1S6S, W e s t e r n D i s t r i c t s   .                         94
+                                                                                                87       189              „           „    .,      Eastern         ,,                                     95
+ 179     T h e p r o p o r t i o n of t h e sexes a test of a c c u r a c y .                   88       191       I n c r e a s e a n d d e c r e a s e in the p o p u l a t i o n        of
+ 1S1     D i s c r i m i n a t i o n of t h a t p o r t i o n of the i n c r e a s e                                                                                                                       96
+                                                                                                89       192       F u t u r e increase a n d d e c r e a s e of p o p u l a t i o n                       97
+ •83      E x a m i n a t i o n of the    figures            .   .      .       .               90
+ iSs      Effect of d e n s i t y of p o p u l a t i o n u p o n i n c r e a s e
+                                                                                                92
+
+
+
+
+                                          CHAPTER IV.-THE RELIGION S OF THE PEOPLE.
+
+                                                         PART I.—INTROI)UCTORY AN } COMPARATIVE.
+ 193 1 I n t r o d u c t o r y a n d F i g u r e s                                             too      202     T h e effect of I s l a m u p o n the c h a r a c t e r of its fol-
+                                                                                               100                                                                                                      I0. n ,
+ 195 j I n d e t e r m i n a t e n a t u r e of P a n j a b r e l i g i o n s                  100      203     Distribution            of t h e several          religions by P r o -
+ 196 T h e C e n s u s definition of H i n d u                                                 101                                                                                                       i"4
+ 19S E x t e r n a l c h a r a c t e r i s t i c s of the s e v e r a l religions              102      204     R e l a t i v e d i s t r i b u t i o n of the several religions           by
+ ' 9 9 T h e effect of H i n d u i s m u p o n t h e c h a r a c t e r of                                                                                                                       i"4
+                                                                                               103      205     D i s t r i b u t i o n b e t w e e n t o w n s a n d villages .            . ! mo
+200      T h e effect of B u d d h i s m u p o n t h e c h a r a c t e r of                             206     Local d i s t r i b u t i o n of H i n d u s a n d M u s a l m d n s        .   u>A
+                                                                                               IO3      207     D i s t r i b u t i o n of each religion by c a s t e          .            . ; M7
+201      T h e effect of S i k h i s m u p o n t h e c h a r a c t e r of its                           208     R e l a t i v e p r o g r e s s of the several religions .                  . { K'S
+                                                                                               IO3                                                                                                  i
+
+
+                                                             PART II.—THE HINDUS OF THE PANJAB.
+210      T h e elasticity of H i n d u i s m                     .        .      . _ .         in        233   Tree a n d animal worship                            .           .      .    .'          11S
+211      B r a h m i n i s m , t h e d i s t i n g u i s h i n g f e a t u r e of H i n -                234   Agricultural superstitions                                                               I [Q
+                                                                                               in        235                                                                                .           I i(>
+214      M o d e r n H i n d u i s m defined                 .  . . .                          112      236     H i n d u P r i e s t s a n d Levites                                       . 1         1:0
+215      T h e P a n t h e o n of the H i n d u p e a s a n t .                                113      237
+2l6      T h e g o d l i n g s of t h e villages             .  . . .                         113       239
+220      T h e worship of t h e s a i n t e d d e a d                                                   241    H i n d u sects                   .      .     .         .   .                           I 22
+226               „            „       malevolent d e a d .
+                                                                                              "5
+                                                                                              116       246                                                                                 ,    1^4
+22S      Divination, Possession, Exorcism, a n d C h a r m s                                  117       24-7   D i s t r i b u t i o n of H i n d u s b y locality .                             1J4
+23O                                                                                           118 |     248                „                  „       a c c o r d i n g to c a s t e       . '•• '-'5
+
+
+
+                                                         PART III.—THE BUDDHISTS 0 F THE PANJAB.
+                                                                                                                                                                                                        127
+250      B u d d h i s m , a s it is in t h e P a n j a b            .        .        .      126      253     T h e H i n d u - B u d d h i s t s of L a b u l             .          .   .;           12S
+
+
+                 IT
+                                                                                 TABLE OF CONTENTS.
+
+
+                                                                                                                                                                Page.
+
+
+
+
+                                                             PART IV.—THE JAINS OF THE PANJAB.
+*SS   The affinities of the Jain religio:                                              13° 1   258    Distribution of Ja ; .3 by locality                       132
+256   The tenets of the Jains                                                           '3°    259          „         „       according to caste                133
+257    „ sects          „                                                               '3'
+
+
+
+
+                                                           PART V.—THE SIKHS OF THE PANJAB.
+360   Rise of Sikhism—Baba NfCnak                                                      '34     266    Sikh sects                                                •37
+361   Development of Sikhism .                                                         134     269    Distribution of Sikhs by locality                         138
+262   Political Sikhism—Guru Govind                                                    135     2/0         „       „     „ according to caste                   •38
+264   Sikhs and Singhs                                                                 135     27I    Progress of Sikhism since last Census
+265   Sikhism, as it now is .                                                          13"
+
+
+                                                     PART VI.—THE MUSALMANS OF THE PANJAB.
+274 Early advance of Islam in the Panjab                                               142     284    Distribution of sects on the frontier .                   146
+276 Mahomedanism in the Eastern Districts                                              142     286    The Wahhdbi sect                                          147
+277       „         on the frontier .                                                  143     288     „ Farazi        „     .    .    •                        148
+280 Mahomedan rules of inheritance                                                     144     289    Distribution of Musalm&ns by locality                     143
+    Mahomedan sects          . . . .                                                   144     290          „      „        „       according to caste          149
+    Sunnis and Shiahs        . . . .
+
+
+                                                    PART VII.—THE CHRISTIANS OF THE PANJAB.
+291 I Misleading nature of the figures                           .       .         . I 151 II 292 | Further statistics                                          'S'
+
+
+                                                 PART V I I I . - T H E IMPURE AND OUTCAST TRIBES.
+293 I The religion of the outcasts                                                     153 || 295 1 The religion of the Scavengers .                            151
+                         Leather-workers                                               153 J| 296   „     „      of „ Sansi Gypsies
+294
+
+
+
+
+                                      CHAPTER V.-THE LANGUAGES OF THE PEOPLE.
+
+                                                     PART I.—INTRODUCTORY AND COMPARATIVE.
+297 I Introductory                                                                                    Distribution of the Panjab languages                      I5»
+298 Bibliography                                                                                      Future        „ „      „       >,                         160
+299 J The languages of the Panjab
+
+
+                                            PART IL—THE SEVERAL LANGUAGES OF THE PANJAB.
+                                                                                       161     316    The Dngri language         ,    .    .  .                 164
+3°7 The Hindustani (Hindi) language                                                                    „ PanYtri language of the Eastern Hills                  164
+                                                                                       161
+307a „ Purbia dialect of Hindi                                                         161
+                                                                                               317
+                                                                                                       „ language of the Hill Giijars                           164
+     „ Urdu Form of Hindi .                                                                    318
+308  „ Hindi of the Eastern Panjab                                                     161     3'9     „ languages of the higher Himalayas of the
+3°9  „ Bagri language                                                                  162                 Panjab                                               105
+310  „ Panjabi     „                                                                   162     321     „ Bilochi language
+     „ S'mdhi      „                                                                   162     322     „ Pashto      „           .    .    .   . .              166
+3"
+3"   „ Jatki of the Lower Indus Valley1                                                162     324    Miscellaneous dialects of the Panjab                      167
+313 „ languages of the Panjab Hills                                                    163     325    The written characters of the Panjab                      •67
+3'4  „ Kashmiri language                                                               163
+3'5
+
+                               PART III.-COMPARATIVE SKETCH OF HINDI, PANJABI, AND SINDHI.
+326 I The languages of the Western Gaudian Group .                                     168 I          The pronunciation of the three languages                  166
+327 I The composition of the three languages                                           168     331     ,, literature    „ ,,     ,,      „                      170
+328    „ structural development „    „   „                                             168     33 2    „ dialects       „ „      „       „                      170
+329    „ written characters      „   „   „
+
+
+
+
+                 CHAPTER VI.-THE RACES, CASTES, AND TRIBES OF THE PEOPLE.
+
+                                                                 PART I.-CASTE IN THE PANJAB.
+      T h e p o p u l a r conception of c a s t e                                      172     340    T h e n a t u r e a n d evolution of the institution of
+333
+      T h e h e r e d i t a r y n a t u r e of occupations                             172                    caste                                             176
+      O c c u p a t i o n , t h e p r i m a r y b a s i s of c a s t e                 173     342    T h e tribal t y p e of caste                             176
+337   T h e political a n d artificial „                    „                .         174     343      „ effect of occupation upon the tribal form
+338   I n s t a n c e s of the m u t a b i l i t y of c a s t e                        174                                                                      177
+                                                                              TABLE          OF SONTENTS.
+
+
+Parti.                                                                                     Page.    Para.                                                                                     Pas=.
+
+
+ 344     T h e t r a d e s - g u i l d t y p e of c a s t e                     .           177      358    Social intercourse b e t w e e n c a s t e s                                       184
+ 345       „ different t y p e s i n c l u d e d in t h e caste-Uibles                      178      359    G e n e r a l distribution of a g r i c u l t u r a l c a s t e s             •    185
+ 3+6     Effect of conversion u p o n c a s t e                                 .           i78      36:          „               „          „ professional               „               •    185
+ 348-        „ „ I s l a m in s t r e n g t h e n i n g t h e b o n as of                            362          „               „           „ menial                    „               .    187
+                            caste             .     . .      .                  •           179      363    A r r a n g e m e n t a n d c o n t e n t s of t h e c a s t e - c h a p t e r     187
+ 349     T r i b a l divisions a m o n g t h e l a n d - o w n i n g c a s t e s            180      3S4    S c h e m e a d o p t e d for the r e c o r d of c a s t e s a n d
+ 35'          „            „              „      „ priestly a n d m e r c a n -                                                                                                           .   188
+                                                         tile c a s t e s       .           181      365    E r r o r s in t h e r e c o r d of castes a n d tribes                       .   188
+ 352          „            „             „       „ artisan a n d menial                              366    I n h e r e n t difficulties of a r e c o r d of c a s t e                    .   188
+                                                            castes .            .           181      367    R e a s o n s why the s c h e m e did not work                                    189
+ 353                                                                                                 368    N a t u r e a n d d e g r e e of error in the final figu r e s .                  780
+ 354     T r i b a l divisions of w o m e n                                                 182      369    E r r o r i n t h e figures for t r i b e s a n d s u b - d i v i s i o n s .     iqo
+ 355     T h e t r i b a l o r g a n i s a t i o n of t h e p e o p l e            .        183      37°    P r o p o s a l s for n e x t C e n s u s                                         190
+ 357     M a r r i a g e a n d i n t e r - m a r r i a g e b e t w e e n tribe 5   .        183      37'                                                                                  • 1 190
+
+
+
+
+                                                PART'II.—THE BILOCH, PATHAN, AND ALLIED RACES.
+ 372     Introductory a n d General                                                .        I9I      393 T r i b a l o r g a n i s a t i o n of t h e P a t h a n s .                          201
+ 374     T a b u l a t i o n of t r i b a l statistics .                           .        X92      394 C o n s t i t u t i o n of t h e P a t h a n n a t i o n                              201
+ 375     M e a n i n g of B i l o c h — B i b l i o g r a p h y .                           I92      395 E a r l y H i s t o r y of the A f g h a n s                                          202
+ 376     D e s c r i p t i o n of t h e Biloch             .    .   .              •        193      397 T r i b a l affinities a n d statistics                                               203
+ 378     Early History „                     „              .     .                •        193      398 T h e P a t h a n t r i b e s of D e r a Ismail K h a n                               203
+ 379     A d v a n c e of t h e Biloches into t h e P a n j a b .                           194      402    „ P a w i n d a h , B o r d e r , a n d other tribes                          .    20S
+ 380     Tribal o r g a n i s a t i o n of t h e Biloches .                        •        '95      403    „ P a t h a n tribes of B a n n u                                                  209
+                                                                                                     406                „            „          Kohat                                          210
+ 381
+ 382     T h e o r g a n i s e d Biloch t r i b e s of t h e D e r a j a   •                195      408    „          t,            „          Peshawar                                       212
+ 3S4       „ b r o k e n Biloch t r i b e s of D e r a G h a z i           .                198      411    „           „             „         Peshawar border                                214
+ 385       „ Biloch t r i b e s of D e r a I s m a i l             .   '.                   I98      412    „          „              „         Hazara                                         215
+ 386       „                     „     „ Muzaffargarh .                    .                 Ig8     4'3 Non-frontier P a t h a n s                                                       .     216
+ 387       „                     „      „ the Lower I n d u s a n d S atlu j                198      4 H T h e T a n a o l i ( C a s t e N o . 54)                                        .     216
+ 38S       „                     „      „ Ravi, Upper Jahlam, a n d                                  415    „ D i l a z a k a n d T a j i k ( C a s t e N o . 145)                        .     216
+                                                  Chanab                   •                 !99     416    „ H a z a r a ( C a s t e N o . 1S3)                                               217
+  389    C o u r s e of m i g r a t i o n of t h e Biloch t r i b e s .     •                J99     417     ,, J a d u n                           .    .      .     .                        217
+  39°    F i g u r e s a n d B i b l i o g r a p h y for P a t h a n s     •                 199     41S    „ Swati                                 .    .      .    .                    •     217
+         D e s c r i p t i o n of t h e P a t h a n s                                       200      419    „ Shilmani                              .    .       .    .                   .     213
+  39[
+                                                                                            200
+  392     Origin               „            „              •
+
+
+                                                 PART III.—THI JAT, RAJP UT, AND ALLIED CASTES.
+  420    General and Introductory                                                           219      443   T r i b a l statistics for R a j p u t s                              •              237
+  421    T h e origin of t h e J a t                  .     .    .      .                   220      444   T h e R a j p u t s of t h e E a s t e r n P l a i n s           •    .              233
+  422    A r e t h e J a t s a n d R a j p u t s distinct ? .                               220      445     „ R a j p u t tribes of t h e „                      „              .              238
+  424    T h e position of t h e J a t in t h e P a n j a b                                 221      447     ,, R a j p u t s of t h e W e s t e r n P l a i n s                                241
+  425    T h e n a t u r e a n d m e a n i n g of t h e figures .                           222      448     „ R a j p u t tribes of t h e „                   „                                241
+  426    D i s t r i b u t i o n of t h e J a t s                                           222      449                           „        „ „ Satluj                           •              243
+  427    T h e a t s of t h e W e s t e r n P l a i n s .                                   223      45t>    „            „         „       „ ,, C h a n a b                     .              243
+  429                at t r i b e s of t h e   „          „                                 225      45'      >>          1,        »       » >. J a h l a m                      •             244
+  431      If a t s of t h e W e s t e r n S u b - m o n t a n e .                          227      452      „ R a j p u t s of t h e W e s t e r n Hills .                     •              245
+  432      SI at t r i b e s of t h e „                 „       ,>      .              .     227     453      „ R a j p u t t r i b e s o f the M u r r e e a n d H a z a r a Hills             245
+  434      %t a t s of t h e S i k h t r a c t .              .         ,                   229      454      „        ,,         „      „ „ Salt-range .                         •             247
+  435      iy a t tribes o f t h e „                „   •                              •     230     455      „        ,,         „       ,, „ J a m m u b o r d e r              •             247
+  437                a t s of t h e E a s t e r n S u b - m o n t a n e .              •     232     456       ,, R a j p u t s of t h e E a s t e r n H i l l s .          .     .             2+8
+  438      t)
+           „ 1 at tribes p i . the „                        „                          .     232     457       „ R a j p u t T r i b e s of t h e „              „ .              •             250
+  439       „ a t s o f "the S o u t h - E a s t e r n D i s t r i c t s               .     233     458   T h e T h a k a r , R a t h i , a n d R a w a t ( C a s t e Nc s. 60,
+  440      „ a t t r i b e s of                   „           „                        •     234                                                                                  •             251
+  441    T h e Rajputs of t h e P a n j a b                                            •     236      459"    „ D h u n d and Kahiit (Caste Nos. 7 | and
+  442      „ R a j p u t t r i b e s of t h e P a n j a b      .                       •     237                       l°3)                                                       •             252
+
+
+
+                                         PART IV.—MINOR I AND-OWNIt* 6 AND AGRICULTURAL CASTES.
+  460 I n t r o d u c t o r y a n d G e n e r a l                               •            253      4S9   T h e G h i r a t h , B a h t i , a n d C h a n g ( C a s t e N 0. 29)              270
+  46I M i n o r d o m i n a n t t r i b e s                                     •            253      490     „ R e y a ( C a s t e N o . 147).                                   .             270
+  462 T h e K a r r a l ( C a s t e N o . 101) .                                •            253      491     „ L o d h a a n d K a c h h i ( C a s t e N o s . 10 5 a n d
+  463    „     G  a  k k h  a  r   (    „      „    68)           .             •            255                       142)                                                      .              271
+  465    „ Awan                    ( „         „     12)                        •            255      492     „ K a m b o h ( C a s t e N o . 33)                                               271
+  467    „ Khattar ( „                         „     162) ,                  .  .            256      493     „ Ahir               ( „           „    27)     .        .          .             271
+  468    „ Khokhar( „                           „    58)           .            •            257      494     ,. M a h t a m ( „                 „    51)     .        ,          .             272
+  470 . „ K h a r r a l ( „                     „     77)                    .   •           258      49<5    „ Sarrara ( „                      „ 11S)                                         272
+• 472    „ Kathia, Khagga, a n d Hans                                           •            259      497     „ Ghosi               ( „          „ 125)       .                   .             272
+- 473    „ D a u d p o t r a ( C a s t e N o . 79) .                             •           259      498     „ Gaddi               ( „          „    81)      .                                273
+  474     „ D o g a r ( C a s t e N o . 46)                                      •           259      499   F o r e i g n R  a c e s           .    .     .      .     .          •             2/3
+  476     „ Ror              ( „             „ 55)                                           260-     500   T h e A r a b ( C a s t e N o . 140)                                  •             274
+   477    „     T  a g  a     (     „        „    86)            .  .                        260      501     „ Shekh ( „                    „     17)                            •             275
+   478    „ Meo ( „                          „ 34)                                           261      502     „ T r i b e s a n d c a s t e s i n c l u d e d u n d e r SI e k h .              275
+   479    „ K h a n z a d a h ( C a s t e N o , 123)                                         262      5<>3    ,, H a n s a n d K h a g g a                                   .    .             270
+   480    „ Gujar .                      ( „          „ 8) .                     .            262     504      „ Nekok.-ira a n d j h a n d f r               .        .          .             276
+   482    „ Gujar Tribes                                                                     265      505     „ Sarai, Miana, a n d others                                        .             276
+   4»3 M   i n o r   a g r i c u l t u r a l a n d p a s t o r a l    tribes  .   .           265     506     „ T u r k ( C a s t e N o . 126).                              .    .             276
+   484 T h e M a l i a n d S a i n i ( C a s t e N o s . 45 a n d 3 1)           .            267     507     „ M u g h a l ( C a s t e N o . 37)                                               277
+   485    „ Arafn, B a g h b a n , a n d ' M a l i a r ( C a s t e N o s .                             5"S     „ K a s a r s of J a h l a m                                                     277
+                     7 a n d 65)                    .      .        .                        267      5"9     „ G h u l a m (Caste N o . 130) .                                                 277
+   48;     „ K a n e t ( C a s t e N o . 20)                                     .           2S8       5°9 3 „ Oizilbash ( „                      „ 1 Si) .                  .     .             278
+
+
+                    vi
+                                                                                                      TABLE OF CONTENTS.
+
+
+Para. 1          -                                                                                                   *»•1    Para.          '                                                                      Page.
+
+
+
+                           PART V.-RELIGIOUS, PROFESSIONAL, MERCANTILE, AND MISCELLANEOUS CASTES.
+ Si°        General a n d Introductory .                .     .    .   .                                             279     539     The Khatri (Caste No. 16)        .  . . .                                     295
+ 5"         Priestly castes . . .                 .    .      .                                                      279     540      „ Divisions of the Khatri Caste                                              295
+ 5"         T h e B r a h m a n ( C a s t e N o . 3)                                                                 279     S4i      „ Khakha (Caste No. 179)        .  . . .                                     297
+ 513          „ divisions of t h e B r a h m a n s .            .   .  .                                             281     542      „ Bhatia ( „       „   69)    .                                              297
+ 5M           „ P u j a r i a n d Bhojki ( C a s t e N o . I20) .                                                    283     543      „ Arora    ( „     „    10)   .                                              297
+ 5>5          „ S a i y a d ( C a s t e N o . 24)          .    .  .                                                 283     544      „ origin and divisions of the Aroras                                         297
+ 5'S          „ divisions of t h e S a i y a d s          .     .   .  .                                             284     545      „ Khojah and Paracha (Caste Nos. 44 and
+ 517          „ U l a m a ( C a s t e N o . 70)            .    .  .                                                 284                                                                                            298
+ 518          „ Chishti ( „               „ 116)          .     .   .  .                                             284     346     The Carriers, cattle-merchants, pedlars, &c.                                   299
+ 519          „ B o d l a ( j , ,, 172)                .      .                                                      2S4     547      „ Banjara (Caste No. 94) .                                                    299
+ 520          „ Ascetic a n d M e n d i c a n t O r d e r s .                                                        285     548      „ Labana ( „         „   52) .                                                299
+ 521          „ H i n d u O r d e r s of Ascetics .             .   .  .                                             286     549      „ Rahbari ( „        „ 122)     .    .    .                          .        301
+ 522          ,. Sikh                    „                .     .   .  .                                             286     550      „ Untwal      ( „    „ 144) ' .                                               301
+ 523          „ Musalmdn                 „      „         .     .   .  .                                             287     551      „ Maniar ( „         „   47) .                                                301
+ 524        The Minor Professional Castes .                     .   .  .                                             287     552      „ Bhatra     ( „     „ 174) .                                                 301
+ 525          „ Nai (Caste No. 21)                                                                                   288     553      „ Kangar ( „         „ 180) .                                                 301
+ 526          „ Bhat ( „            „ 62)                                                                            289     554      „ Kunjra      ( „    „ 114) .                                                 301
+ 527          „ Dum and Mfrasi (Caste No. 25)                                                                        289     555      „ Tamboli ( „        „ 165)      .    .    .                          .       301
+ 528          » Jogi, Rawal, and Nath (Caste Nos, 40 and                                                                     556                                                                                    301
+                    80)                                                                                               290    557       „    Kashmiri and Dogra (Caste Nos. 26 and
+ 529          ,, B a h r u p i a ( C a s t e N o . 128) .                                                             290                                                                                           302
+ 53°          „ B h a n d ( C a s t e N o . 141)                                                                      291     558      „  Dogra (Caste No. 182)                                                     3°3
+ 531        T h e Merchants a n d Shop-keepers                 .                                                      291     559      „  Gurkha, Parsi, and Bangali (Caste Nos.
+ 432          „ B a n y a ( C a s t e N o . 14)             .    . .                                                  291                  148, 184, and 168)                                                       3°3
+ 533          „ divisions of t h e B a n y a c a s t e                                                                293     560     „ Kayath (Caste No. 90)         .    . . .                                    303
+ 534          „ D h u n s a r ( C a s t e N o . 173) .           .   .  .                                             293     5«i     „ Bishnoi       ( „   „ 106)    .    . . .                                    3°3
+ 535          „ Bohra           ( „          „ 124) .                                                                 294     562     „ Chahzang ( „        ,, 138)                                                 3°3
+ 536          „ Pahdri Mahajan (Caste No, 112)                                                                        294     563     „ Kanchan ( „         „   96)   .    . . .                                    3»3
+ 537          „ Sud (Caste No. 75)                                                                                    294     563"   M iscellaneous castes of Table V111B.                                          3°3
+ 538          „ B h a b r a ( „ „ 88)                                                                                 294
+
+
+
+                                                        PART VI.—THE VAGRA NT, ME NIAL, AND ARTISAN CASTES.
+ 564    Divisions of the S u b j e c t                                                                                305     614     T h e G a d a r i a ( C a s t e N o . 73)          .    .   .                 323
+ 565    O r i g i n a n d evolution of t h e lower m e n i a l s                                                      305     615       „ Kanera ( „                   „ 170)                                       323
+ 566    O r i g i n of t h e w a t e r - c a r r y i n g classes .                                                    3°5     616     T h e W a t e r m e n , Boatmen, a n d Cooks                                  324
+ 567    Effect of religion u p o n o c c u p a t i o n                                    .           .         .     306     617       „ Jhi'nwar ( C a s t e N o . 15)                  .    .  .                 325
+ 56S    G r o w t h of sections a m o n g the m e n i a l c a s t e s                                                 306     618       „ divisions of J h m w a r , M a c h h i , a n d M a l l a h .              325
+ 569    T h e h i g h e r a n d hill m e n i a l s                            .           .           .         .     3°7     619       „ M a c h h i a n d M e n ( C a s t e N o . 28)                             .325
+ 57°    T h e ceconomical divisions of                                                the           menial                    620       „ B h a t y a r a a n d B h a r b h u n j a ( C a s t e N o s . 92
+                    classes                        .          .         .          .         .          .       .     3° 7                   and 108)                                                                325
+ 57 1   T h e     i n t e r n  a l       o r g  a n  i z a t i o  n        of         t h e         menial                    621       „ Mallah and Mohana (Caste No. 42) ,                                         32S
+                    classes                                                                                           3°7     622       „ Dhinwar of the Jamna                          .      .   .      .          32S
+ 572 T h e W a n d e r i n g a n d C r i m i n a l t r i b e s                                                        3°7     623     The Workers in wood, iron, stone, and clay                                     326
+ 573      „ O d a n d B e l d a r ( C a s t e N o s . 85 a n d 129) .                                                 308     G24       „ Lohar                (Caste No. 22) .                                      327
+ 574      „ C h a n g a r ( C a s t e N o . 64)                                  .          .          .        .     308     625    • „ Siqhgar               ( „         „ 157) .          .     .       .         328
+ 575      „ Bawaria ( „                                  „ 71) .                                                      310     626       „ Dhogri               ( „         „ 153) .          .     .       .         328
+ 576      „ A h e r i a n d T h o r i ( C a s t e N o s . 91 a n d 100) .                                             310     627       „ Tarkhan              ( „         „ 11) .                                   32 3
+ 577      „ Sansi                                      ( „                „          72)                              3 "     628       „ Kamangar ( „                     „ 132)       .      .    .     .          328
+ 578      „ Pakhiwara                                  ( „                „ 117)                                      311     629       „ Tilavi               ( „         „ 149) .         .     .       .          329
+ 579      „ Jhabel                                      ( „               „ 107)                                      3 "     630       „ Raj                  ( „         „ 93) .                                   329
+ 580      „ K e h a l or M o r ( „                                        „ 161)                                      3"      631       „ Khumra              ( „          „ 171) .                                  329
+ 581      „ G a g r a ( C a s t e N o . 133)                                     .          .          .        .     3'3     632       „ Kumhar               ( „         ., 13)       .      .    .      .         329
+ 582      „ Mfna ( „                               „ 166)                        .          .          .        .     313     633     The Workers in other .netals a.^d -minerals
+          „ Harni ( „                              „ 159)                        .          .          .        .                       „ Sunar             ( 0 " . _ N o . 30)
+ 583
+ 584       „ Bilochtf                              „         18)
+                                                                                                                      3'3
+                                                                                                                      3'3
+                                                                                                                              S34
+                                                                                                                              635       „ Nyaria            ( „         „ 131)
+                                                                                                                                                                                                                      ,,
+                                                                                                                                                                                                                     ,P
+ 5S5       „ Bangali                                                                                  .               3'4     636       „ Daoli             ( „         „ 134)       •                              33"
+ 5S6       „ other Criminal tribes .                                           .           .           .         .    314     637       „ Thathera( „                  „ 115)         .                             330
+ 587 T h e G i p s y tribes                                      .        .          .         .         .      .     3H      638       „ Agari             ( „        „ 109)           .     .    .      .         330
+  588      „ N a t a n d B a z i g a r ( C a s t e N o s . 98 a n d 89) .                                             3'5     639       „ N t i n g a r a n d S h o r a g a r ( C a s t e N o s . 76
+  589      „ Perna                         ( C a s t e N o . 164)                                                     316                    a n d .154)                                                            330
+  590      „ Kanjar                        ( „               „ 135)                                                   316     640       „ C h u r i g a r ( C a s t e N o . 139) .            .    .      .         331
+  59'      „ Hesi                         ( „                „ 167)                                                   31S     641     T h e W a s h e r m e n , d y e r s , a n d tailors .                         331
+  59!      „ Garri                         ( „               „ 177)                                                   317     642       „ D h o b i a n d C h h i m b a ( C a s t e N o s . 32 a n d 33)            333
+  593      „ Qalandari ( „                                   „ 121)                                                   3'7     643       „ Lilari a n d R a n g r e z ( „                „    67 „ I I 0 )           333
+  594      „ Baddun                        ( „               „ 150)                                                   3'7     6+4       „ C h a r h o a ( C a s t e N o . 54)            .    .   .                 333
+  595      „ Gandhila ( „                                    „ 158)                                                   3'7     645       „ Darzi            ( „           „ 61) .                                    333
+  596 T h e Scavenger Castes                                        .          .           .          .         .     3'7     646     T h e Miscellaneous a r t i s a n s               .     .    .      .         333
+  597       „     C  h  i i h r a   (  C a  s t e    N   o .  4)                  .          .          .        .    318     647       „ P e n j a , Teli, a n d Q a s s a b ( C a s t e s N o s . S3,
+  598       ,, S i k h C h i i h r a — M a z b i a n d R a n g r e t a ..                                             3'9                                                                                           333
+  599   ,   „      M  u  s  a l m  i i n    C  h i i h  r a —    M    u s a l l i ,    K u   t  a n a ,    & c .      3>9     648       „    K a l a l ( C a s t e N o . 56)                                        335
+  6 0 0 < „ divisions of t h e C h u h r a s                                       .          .         .        .    3[9     649                                                                                   335
+  601       „ D h a n a k ( C a s t e N o . 43)                                                                        319    652       „    B a r w a l a a n d B a t w a l ( C a s t e N o s . 49 a n d 78)       333
+  602       „ Khatik ( „                                  „ 87)                 .                                      320    653       „    Meg           ( C a s t e N o , 57)         .     .    .       .       338
+  603 T h e Leather-workers a n d W e a v e r s .                                                                      320    654       „    Diimna ( „                 „ 41)                                       333
+  604       „ C h a m a r ( C a s t e N o . 5)                                                                         320    S55       „    Barara ( „                 „ 137)             .     .     .    .       338
+  605       „ miscellaneous entries classed a s C h a m a r                                                            320    656       „    Sarera ( „                 „ 97)            . , .                      339
+  606       „ S i k h C h a m a r or R a m d a s i a                                                                   322    657       „    Koli a n d D a g i ( C h a n a l , H a l i , a n d S e p i )
+  607        ,, M u s a l m d n C h a m a r or Mochi ( C a s t e N o . 19^                                             322                         ( C a s t e N o s . 6(5 a n d 5 0 ) .                            339
+   608      „ divisions of C h a m a r s a n d M o c h i s                                                             S22     659      „    R e h a r ( C a s t e N o . 176)            .                          340
+   609      „ C h a m r a n g ( C a s t e N o . 113)                                                                   322     660      „    Dosali ( „                „ 17S)              .     .      .    .      340
+   610       „ Dabgar                       ( „                 „ 169)                    ?.                           323     661
+   611       „ Koli of t h e P l a i n s ( C a s t e N o . 66)                                                         323     662      „    Ghat        (   „      „     151)         .      .      .         .    340
+   612       „ j u l a h a a n d Paoli ( „                                     „         9)             .              323     663                                                                                  340
+   613       „ divisions-of J u l a h a s                               .          .          .         .              323
+                                                                               TABLE            OF CONTENTS.
+
+
+Para.                                                                                        Page,   Para. 1                                                                                         | Pae=.
+
+
+
+
+                                         CHAPTER VIK-AGE SEX, ANE CIVIL CONDITION.
+
+                                                              PART I.—THI: AGES OF TSE PEOPLE.
+ 66+                                                                                         342     674                                                                                                349
+ 66s     Causes of e r r o r in t h e figures                 .     .      .      .          342     676       T h e effects of early m a r r i a g e               .    .       .       .              351
+ 667     T h e first five y e a r s of life                   .     .      .      .          344     678       C a u s e s of the high p r o p o r t i o n of c h i l d r e n t o
+ 669     P a n j a b A g e s c o m p a r e d with E u r o p e a n s t a n d a r d s          345                 adults                                                                                 353
+ 670     A g e S t a t i s t i c s for different p a r t s of t h e P r o v i n c e          347     679       A v e r a g e life, r a t e s of m o r t a l i t y , e x p e c t a t i o n ,
+ 672       ,,        „            .]      »      religions .                                 348                                                                                                        354
+
+
+
+                                                   PART II.—THE CIVIL CONDITION OF THE PEOPLE.
+ 680                                                                                          355     69!       Civil condition of t h e several religions                                              360
+ 681      M a r r i a g e distinct from c o h a b i t a t i o n .                             355     693        „       „      ,, t h e sexes c o m p a r e d                          .       ,       362
+ 682      Restrictions u p o n i n t e r - m a r r i a g e                                    355     694        „       „      in t o w n s a n d v i l l a g e s                                      362
+ 6S4      I n d u c e m e n t s to, a n d restrictions u p o n , m a r r i a g e              356     696                                                                                               362
+ 685      Widow Marriage                   .        .        -      . . .                     357     698                                                                                               3«>5
+ 686      Civil c o n d i t i o n in E u r o p e a n d t h e P a n j a b                      357     699       R e l a t i o n s b e t w e e n t h e s e x e s in K u l u a n d L a h u l              365
+ 687         „            „         „ v a r i o u s p a r t s of t h e P r o v i n c e        357
+
+
+                                                       PART III.—THE PROPORTIONS OF THE SEXES.
+ 700      S e x statistics in t h e P a n j a b            .                                  367     707      T h e p r o p o r t i o n of t h e sexes a m o n g the various
+ 701      P r o p o r t i o n of t h e s e x e s a t different a g e s .                      367                                                                                                       37'
+ 702               „          „ „          „ „ b i r t h a n d in infancy.                    368     708       C a u s e s of t h e excess of m a l e s in the P a n j a b
+ 7°5      B i r t h r a t e s of t h e s e x e s c o m p a r e d for t h e                                       —Infanticide.                     .      .       .     .      .         .       .      372
+                                                                                              37°     710       O p i n i o n s of Officers on t h e p r e v a l e n c e of I n f a n -
+  706     T h e p r o p o r t i o n of t h e s e x e s i n t o w n s a n d villages                               ticide                   .      .      .        .     .      .         .       .      373
+         1 a n d in different d i s t r i c t s                      .    .   .   .           37°     7II       C o n c l u s i o n s a s t o t h e p r e v a l e n c e of I n f a n t i c i d e .      375
+
+
+
+
+                                     CHAPTER VIII.-THE OCCUPATI ONS OF THE PEOPLE.
+
+                                                              PART I.—GEr1ERAL AND COIPARATIVE.
+  712      U n s a t i s f a c t o r y n a t u r e of t h e figures for o c c u p a -                 731       Total agricultural population                                .      .       .       .    3S3
+                                                                                              376     732                                                                                                3S3
+  713      T h e i n d u s t r i a l ceconomy of E n g l a n d a n d t h e                            735       T h e w o r k e r s in fabrics a n d d r e s s                                           384
+                                                                                              376     736         ,, workers a n d dealers in food                                                       3S5
+  7>4      Difficulties of classification                              .       .  . .         377     737                                                                                                3S5
+  715      U n s n i t a b i l i t y of t h e classification a d o p t e d                    377     738                                                                                                3S5
+  717      R e a s o n s w h y the E n g l i s h s y s t e m w a s a d o p t e d .            377     739                                                                                                385
+  718      R e c o r d of o c c u p a t i o n s in t h e schedules                            37S     740          „     m e r c a n t i l e class .                                                     3S5
+  719      A r r a n g e m e n t of the o c c u p a t i o n t a b l e s                       378                                                                                                        3
+  720      S u g g e s t i o n s for a future C e n s u s                                     378
+                                                                                                      741
+                                                                                                      742       T h e occupations of w o m e n                                                            ?l
+                                                                                                                                                                                                         386
+  721      G e n e r a l d i s t r i b u t i o n of m ? l e o c c u p a t i o n s             379     743       E r r o r s in the r e c o r d of female o c c u p a t i o n s                           386
+  723                                                                                         379     744       T h e a g r i c u l t u r a l occupations of w o m e n                                   0S7
+  724      Classification of G o v e r n m e n t s e r v a n t s                              379     747       D i s t r i b u t i o n of female cultivators                                            337
+  725      T h e agricultural a n d pastoral group .                                          33i     748       N o n - a g r i c u l t u r a l occupations of females .                                 3S9
+  726                                                                                         33i     75°       O c c u p a t i o n s of children                                                        39°
+  727                                                                                         381     751       S u m m a r y of the distribution of the p o p u l a t i o n
+  728                                                                                          382                                                                                                       390
+  729                                                                                         382      753                                                                                               391
+  730      A g r i c u l t u r e c o m b i n e d with other o c c u p a t i o n s        .     383
+
+
+                                PART II.-DETAILED NOTES DN THE SEVERAL GROUPS OF OCCUPATIONS.
+   754      Officers of G o v e r n m e n t ( 1 . 1 . 1)                                       392     772       P a c k e r s , w e i g h e r s , a n d m e a s u r e r s ( I I I . 7. 5)               394
+   755      M u n i c i p a l a n d village Staff, a n d Officers of I n -                             773       P o r t e r s a n d m e s s e n g e r s ( I I I . 7. 6)                                 39+
+              d e p e n d e n t ' G o v e r n m e n t s ( I . 1, 2. 3)                         392     774       A g r i c u l t u r a l a n d pastoral g r o u p ( I V . 8. 1)                          30+
+   756      T h e A r m y ( I . 2 . 1)                   .    .     .  .                       392     775                                                                                               395
+   757      P r i e s t s a n d holy m e n ( I . 3 . 1) .                                      392     776       P e r s o n s e n g a g e d a b o u t a n i m a l s ( I V . 9. 1.)                      3»5
+   758      L a w y e r s a n d others ( I . 3 . 2)                                            392     777       M e c h a n i c s (V. 10. 1 to 13)                       .    .    .  .                 305
+   759      Medical class ( I . 3. 3)                      .                                   393     77S       W o r k e r s a n d d e a l e r s in houses ( V . ro, 14)                               395
+   760      L i t e r a r y m e n ( 1 . 3. 4)                                                  393     779             „          „         „       „ furniture ( V . 10. 15)                            895
+   761      A r t i s t s (I. 3 . 5)                .      .                                   393     780              „          „         „       ,. d y e s ,     chemicals, ;xx.
+   762      M u s i c i a n s a n d B a r d s (I. 3. 6) .                                      393                                                         "(V. 10. 16)                                  395
+   763      A c t o r s , conjurors, &c. ( I . 3, 7) .                                         393     781             „          .,        .,      „ wools (V. n . 1) .                                 505
+   764      T e a c h e r s a n d P a n d i t s (I. 3. 9) .                                    393     7S2                                           „ silk (V. I I . 2)                                 306
+   765      B o a r d i n g - h o u s e k e e p e r s ( I I . 5. 1)                            393     7S3             „          ,.        ,.      ,. cotton (V. I I . 3) .                             396
+   766      S e r v a n t s a n d m e n i a l s ( I I . 5. 2) .                                393     784             „          „        „        ,, m i x e d materials (V.11.4I                      396
+   767      M e r c a n t i l e men ( I I I . 6. 1)                                            394     785             „          „         „       ... d r e s s (Y. I I . 3)                           306
+   768      S h o p - k e e p e r s ( I I I . 6. 2)                                            394     786             „          „         „       „ raw fabrics ( V . n . 6) .                         396
+   769      C a r r i e r s b y rail ( I I I . 7. 1)                                           394     787             „          „        „       ,. a n i m a l food ( V . 12. 1) .                    306
+   770            „         on r o a d s ( I I I . 7. 2)                                       394     7SS             „          „         ,.      „ v e g e t a b l e food ( V . 12.2)                 597
+   771            „          „ r i v e r s ( I I I . 7 . 3)                                    394     789             „          „         „       „ d r i n k s , Sec. (V. 12. 3) .                    397
+
+
+                    viii
+                                                   TABLE OF CONTENTS.
+
+
+Para.                                                     Page.   Para,                                                          Pajc.
+
+
+79°     Workers and dealers in dung,     grease,    &c.   -        798     Workers and dealers in salt (V. 15. 6)                 398
+                                 (V. 13- 1).     •    •    397     799        „      „     „     „ water (V. 15. 7) .             398
+ 791      „      ,,   „     „ hidesandleather(V.l3.2;.     397     800        „      „     „     „ gold and silver(V. 15.8).      398
+          „      „-   „     •> oilsandgums(V.l4.1) .       397     801        „      „     „     „ copper, tin, zinc, lead,
+          „     -„     „     „ wood, &c. (V. 14. 2) .      398                                         brass, &c.(V. 15.9-13).    399
+          „      „    „     ,, leaves,    grass,    and            802        ,,      „     „     „ iron (V. 15. 14) .            399
+                                 straw (V. 14. 3-4). .     398     803     General labourers (VI. 16. 1) .
+                      „      „ stone, bricks, earth,               804     Persons of indefinite occupation (VI. 16. 2)           399
+                                 &c. (V. 13. 3). .    .    398     805        „     „ rank or property (VI. VJ. 1)                399
+          „      „    ,,    ,, earthenware (V.15.4)        •Wb     806        „     „ no true occupation (VI. 18. 1) .            399
+797                         „ glass (V. 15. 5) .           398     807     Note on the Imperial figures (Table XII)               399
+
+
+
+
+                               CHAPTER IX.-EDUCATION IN THE PANJAB.
+807     Introductory     .     .   .    .    . ' •        401             State of education among the followers of the
+808     Figures compared with those of the Educational                      several religions    .   .    .   .   .   .           40J
+          Department         .   .    .   .    .   .  .   40T      812    Means and nature of education                           405
+809     State of education in various parts of the Pro-            814    Progress of education       .    .  .   .   .           406
+          vince                                           402
+
+
+
+
+           CHAPTER X.-INSANITY, BLINDNESS, DEAF-DUMBNESS, AND LEPROSY.
+816 Introductory                              •           408     826 Deaf-dumbness in various parts of the Panjab .
+    Insanity in the various parts of the Panjab           408     827 Figures for Deaf-dumbness compared with those
+819 Figures  for insanity    compared  with those of                    of last Census      . . .            . . .               414
+      last Census         .     .                         409     828 Deaf-dumbness among the several religions                  414
+    Insanity among the several religions                  409     829        „         at the several ages .                     414
+       „     at the several ages         . . . .          410     830 Leprosy in various parts of the Panjab                     415
+822 Blindness in various parts of the Panjab .            411     831 Figures for Leprosy compared with those of last
+823 Figures for blindness compared with those of                        Census                                                    416
+      last Census •        .    .    .    •               412     832 Leprosy among the several religions                         417
+    Blindness among the several religions                 412     833    „     at the several ages        . . . .                 4<7
+825      „     at the several ages      . . . .           412
+
+
+
+
+                      BOOK II-THE OPERATIONS OF THE CENSUS.
+
+                           CHAPTER XL-THE CENSUS OF THE PROVINCE.
+
+                                         PART I.-PRELIMINARY OPERATIONS.
+834 Territorial sub-division into Census units.           421     84s     Demarcation of urban limits
+83s The Index-register and Circle-map .                   421     847     Size of Census Sub-divisions
+836 House-lists and Block-maps                            421     849     Statistics of Census agency
+    Definition of a house           . . . .               422     850     Aid afforded by independent departments
+    Suggestions fof the future      . . . .               424     851     Preparation of the preliminary record by
+841 Occupied and unoccupied houses                        424               lage accountants                                     430
+842 Halting-places and camping grounds entered                    853     Non-official agency      .   .  .  .   .               432
+      in the House-lists                                  424     856     Characters used by the Enumerators                     433
+S43 Entry of families                                     424     857     Progress of the work          . . . .                  435
+    Statistical units to be recorded                      42s
+
+
+
+                                  PART II.—THE ENUMERATION OF THE PEOPLE.
+858 I The form of schedule , ' .                                        I The preliminary record                                 43S
+860 The Enumerators' books .                                              Date of the final Census                               439
+861 j Preliminary practice of Enumerators                                 The final Census                                       439
+
+
+
+                                            PART III. -SPECIAL MEASURES.
+866 Municipalities .                                      441             Boat Census         . . . .                            443
+867 Cantonments                                           441     879     River turnpikes for Boat Census                        445
+868 Military Census                                       441     880     Travellers          . . . .                            445
+870 The Khaibar troops                                    442     882     Nomad population                                       446
+871 Public institutions and ganigs of workmen             442     883     The Census of Tcri and Tanawal                         446
+872 Private schedules                                     442     884     Montane and Sub-montane Tracts                         446
+874 Officers in camp                                      443             Census of Lahul and Spiti                              447
+875 European Census in general                                            Other special cases .                                  447
+876 Railway Census
+                                                                         TABLE O F                CONTENTS.
+
+
+
+
+                               CHAPTER X I I - T H E PREPARATION OF THE FIGURES.
+
+                                                           PART I.—ABSTRACTING THE FIGURES.
+       Village abstracts                                                                   448       80S     T h e process of a b s t r a c t i n g                                 450
+       T r a n s l i t e r a t i o n a n d collection of schedules                         44»       896     T h e s y s t e m of check                        .  . . .             451
+890    Tahsil abstracts                                                                    448       »97     P r o p o s e d s y s t e m of a b s t r a c t i n g                   452
+       D e s p a t c h of schedules to the divisional offices .                            449       898     Cost versus A c c u r a c y                       .  . . .             452
+       M a c h i n e r y for a b s t r a c t i n g a n d t a b u l a t i n g t h e                   899     D e p a r t u r e from t h e entries in the schedules                  453
+           figures                                                                         449       900     Utility of the p r e l i m i n a r y a n d village a b s t r a c t !
+894    P r e l i m i n a r y e x a m i n a t i o n of schedules                            450
+
+
+
+                                                       PART II.—TABULATION OF THE FIGURES.
+901    The Village-tables                                                                  455       912     F l o a t i n g population .                                           460
+902    Mode of filling up the tables                                                       455       913     E u r o p e a n schedules .                                            460
+9°3    System of check           .   .   .   .  .                                          455       914     T a b u l a t i o n of tribal s u b - d i v i s i o n s                460
+9°5    Classification of entries       . . . .                                             456       915     P r e p a r a t i o n of divisional t a b l e s
+907    Errors in classification        . . . .                                             457                   summaries                 .        .     .      .                  461
+909    Units of tabulation—towns and villages .                                            458       916     P r o g r e s s of t h e work                                          461
+910             „           —village boundaries .                                          459       917     C h a n g e s in the i n s t r u c t i o n s issued                    462
+911    Towns and villages—precautions adopted anc                                                    918     Evil effects of those c h a n g e s                                    462
+                                                                                           459
+
+
+
+                                                       PART III.—COMPILATION OF THE FIGURES.
+
+920    T h e c e n t r a l c o m p i l a t i o n office                                    464       927 I Classification of c a s t e e n t r i e s                                457
+921    T r a n s l a t i o n of t h e divisional t a b l e s                               464       928 i T r i b a l s u b - d i v i s i o n s                                    467
+§22    C o m p i l a t i o n of the figures                                                464       929 • L a b o r i o u s n a t u r e of the work .                              463
+923    A d j u s t m e n t of e r r o r s                                                  464       930 i Classification a t t h e n e x t C e n s u s .                           469
+925    Classification of e n t r i e s                                                     466       931 1 P r o g r e s s a n d completion of the work                             409
+926    P r i n c i p l e s of classification                                               466
+
+
+
+
+                                    CHAPTER XHI--MIN0R POINTS AND SUGGESTIONS.
+
+                                                                  PART I.—SUBSIDIARY MATTERS.
+        Legislation a n d proceedings under the Act                                        47'       943      T r a n s l a t i o n of i n s t r u c t i o n s                       477
+933
+        G e n e r a l a t t i t u d e of the p e o p l e                                   472       944      P r i n t i n g of forms a n d i n s t r u c t i o n s                 473
+934
+        C o r r e c t n e s s of . e s u l t s                                             473       945      D i s t r i b u t i o n of          „              „                   4/S
+936
+939     r r o g r e s s Reports                                                            47<5      940      C o n s u m p t i o n of schedules                                     473
+940     Inspection                 .    .      .    .                                      476       948      Expenditure                         .       .    .   .                 4S0
+941      District a n d Divisional R e p o r t s .                                         477       949      Certificates a n d r e w a r d s .                                     4Sc
+942     C o m m i s s i o n e r ' s s h a r e in t h e w o r k                             477
+
+
+
+                                                             PART II.—CENSUS IN NATIVE STATES.
+         F o r m of schedule for N a t i v e S t a t e s                                              952 1 K a p u r t h a l a C e n s u s , i n c o m p l e t e                    4? 2
+ 95°                                                                                                                                                                                 4S2
+         N a t u r e of w o r k in      „        „                                          481       953 ' T a b u l a t i o n in N a t i v e S l a t e s
+ 951
+
+
+
+                                                       PART III.—DIFFICULTIES AND SUGGESTIONS.
+          Difficulties a n d s u g g e s t i o n s    .                                     483       961      A b s t r a c t i n g the figures                                     4^6
+ 954
+          Preliminary operations                  .                                         483       002      T a b u l a t i o n of ,,      „                                      4»
+ 955
+          Agency                   .    .     .     .     .       .        . .              4S4       q»1      Compilation             „      ,,                                     4SS
+ 956
+          T h e form of, a n d e n t r i e s in, the S c h e d u l e s a n d                          964      Issue of instructions a n d schedu                                    4S6
+ 957
+            the E n u m e r a t o r s ' Books.        .        .         .                  484       965      C e n s u s in N a t i v e S t a l e s                                4S7
+ 958      P r e l i m i n a r y record a n d final e n u m e r a t i o n                    485       966      F o r m of final t a b l e s                                          4S7
+ 959      Special m e a s u r e s                                                           4S5       967      F i n a l counsel to m y successor                                    4*7
+ 960      Discretion to be allowed in e n u m e r a t i o n              .                  4S5
+
+
+
+                                                                              PART IV.—THE LAST.
+  g68 I Notice of officers                                                           , I    488 II     070 I Success of the C e n s u s - s c h e m e
+                                                  TABLE OF CONTENTS.
+
+
+                                                          P»ec
+
+
+
+
+                               APPENDIX C.-SUPPLEMENTARY TABLES.
+      Area, population, &c, of tahsils                    492        H  Migration—Movement of males and females
+      Cultivation, revenue and rent, &c. .      .     .   496            between Districts
+      Birth-place—Distribution of residents bybirth-                    Future population—Estimate for each year from
+       place.          .   .    .   .   .   .     .   .   498         1  1882 to 1891
+      Birth-place—Distribution of birth-places by resi-              K Municipal Towns—Population for 1868, 1875,
+       dence                                              498            and 1881 .
+      Birth-places—Figures for towns and villages .       500         L Death-rates—Annual Death-rates for Districts
+      Migration—-Total gain and loss by migration                        from 1868 to 1881 .      .     . . .             516
+       for Districts and States                           502        M Age —Distribution by age of every 10,000
+      Migration—Movement of persons between                              males, females, and persons in each District .
+       Districts            .    .  .   .   .     .   .   508
+
+
+
+
+      APPENDIX D.-INSTRUCTIONS ISSUED IN CONNECTION WITH THE PANJAB
+                              CENSUS OF 1881.
+Preliminary          .   .   .    .    .  .   .           522    I Railway Census                                         538
+Demarcation of Blocks and selection of agency .           522    I Boat                                                   539
+House-numbering and preparation of house-lists            528    I Final enumeration.                                     540
+Preliminary record                                        532    I Preliminary tabulation                                 541
+Military Census                                           536    I Towns                                                  543
+                                      STATISTICAL ABSTRACTS.
+
+
+Leading. Statistics for the Natural Divisions of                                   Gain and Loss by Exchange of papulation be-
+   the Province .                  ' .                                                tween Districts, arranged in order of density .
+Urban and Rural populations of the Province .                                      Gain and Loss by Migration for Districts ar-
+Classification of Towns and Villages for the                                          ranged in order of magnitude.
+   Province                                                                        Increase of population in Towns arranged ac-
+Distribution of Population over Towns and Vil-                                         cording to size           .  .     .      .    .   .
+   lages grouped according to size, for the Pro-                                   Details of migration to and from each District
+   vince                                                                               of British Territory.          .     .     .    .  .
+Distribution of',population among Towns and                                        Decrease in proportion of Males at successive
+   Villages grouped according to size, for Eng-                                        enumerations for Districts, arranged in order
+   land and the Punjab                  .                                              of magnitude        .   .   .      .      .    .   .
+Average population per Village and'Town for                                        Gain by migration compared with actual In-
+   Districts and major States, arranged in order                                       crease for Districts      .  .     .      .    .   .
+   of magnitude              .         .        •         _•          •            Increase of population compared with Density
+Relative sises and average population of Vil-                                          for Districts        .  .    .     .      .     .   .
+   lages and Towns for the Provinces of India .                                     Increase of population between 1855, 1868, and
+Proportion of Rural to total population in                                             1881 for Districts, arranged in order of mag-
+  each District in order of magnitude                                                  nitude         .    .   .   .      .      .    .    .
+Proportion of Rural to total population for each                                    Increase of population between 1868 and 1881
+   Religion in each Division                    .          -     •                     for Districts, arranged in order of magnitude .
+Prevalence of each Religion compared with its                                      Annual Death-rates from 1866 to 1SH1 for Divi-
+  proportion of Rural population for each                                              sions          .    .   .   .      .      .     .   .
+   Division         .    .       .         .       •         •    •   •            Increase in urban and total population for Dis-
+Distribution of the population of the Province                                          tricts        .    .   .   .      .      .     .    .
+   among Districts and States, arranged in order                                   Proportions of each Religion to total population
+   of magnitude            .       .         .       .        .    .  .               for Indian Provinces, arranged in order of
+Distribution of the urban, rural, and total                                            magnitude            .   .   .     .      .     .   .
+  population of British Territory among Dis-                                       Composition of the population by Religion for
+   tricts and Divisions, arranged in order of                                           Districts and Stales, arranged in order of
+   magnitude          .      .         -        •         •                            magnitude            .   .   .      .      .    .    .
+Area, Population, and Density for Pan jab Divi-                                     Urban element in each Religion for Divisions .
+   sions, Indian Provinces, and European States,                                    Composition of each Religion by Caste for the
+   arranged in order of density                         . . . .                        P r o v i n c e . . . . . . . .
+Density of rural and total population together                                      Progress of each Religion since 1868
+   with statistics of rainfall, irrigation, and                                    Distribution of Hindus by Districts and States,
+   cultivation for Districts, arranged in order of                                     arranged in order of magnitude
+   density                                                                          Distribution of male Hindus by Caste for Divi-
+Density of total, rural, and agricultural po-                                          sions          .    .   .   .      ,      .    .    -
+   pulation on Cultivated and Culturable areas,                                    Distribution of Jains by Districts and States,
+   together with statistics of rainfall, cultiva-                                       arranged in order of magnitude
+   tion, and irrigation for Districts, arranged in                                 Distribution of male Jains by Caste for Divi-
+   order of density                  .        .       .        .    .  .                sions
+Average distance from village to village for                                        Distribution of Sikhs by Districts and States,
+   Districts, arranged in order of magnitude                                           arranged in order of magnitude
+Number of families and persons per House for                                       Distribution of male Sikhs by Caste for Divisions
+    Districts and States, arranged in order of                                      Sikh population at successive enumerations for
+    magnitude                                                            40&41         certain Districts
+Number of persons per Family for Districts and                                      Proportions of Sects among rural and total
+    States, arranged in order of magnitude.                              45i& 46       Musalmdn population for Districts arranged
+Prices of grain from 1840 to 1880 .                                                    in order of magnitude          .     .      .   .   .
+ Quinquennial statistics of Progress from 1863                               53    Distribution of Musalmdns by Districts and
+    to 1880 .          .       .         . _ .             .      .   -                States, arranged in order of magnitude .
+ Annual vital statistics, rainfall, and prices                               55    Distribution of male Musalmdns by Caste for Di-
+   from 1862 to 1880                                                                   visions
+ Proportions of the Sexes among Migrants for                                 55    Distribution of Protestant Nattve             Christians
+     Districts                                                               60        by sects and Districts
+ Migration from and to the Punjab ,                                          61    Languages of the Panjdb .            .      .     . _ .
+ Urban and rural immigration from extra-                                           Local distribution of Languages for Districts
+     Indian Asia                                                             64        and States in order of locality
+ Migration between the Panjdb and the Rdjpu-                                        Number of Books published in each Language
+     t&na States                                                             65        in the Panjab, 1875 to 1880            . . . .
+  Urban andrural immigration from extra-Pro-                                        General distribution of Castes for Districts and
+     vincial      I n d i a . . . . . . .                                    67        Stales                                             -
+ Migration to and from Bahuwalpur                                            70    Biloches,Pathdns, and allied races for Districts
+        „       between British Territory and States                                   and States
+     oftheEastern Plains for DistrictsandStates.                             71     Principal Biloch Tribes for Districts and States
+ Migration between certain Districts and certain                                   Minor Biloch Tribes           .  .     .      .    .   .
+     States of the Eastern Plains                        . . . .             72    Principal Biloch Clans
+ Migration between British Territory and Hill
+     States for Districts and States                                         73    Principal Divisions of the Pathdn Nation
+ Migration between certain Districts and certain
+     Hill States .             .         .       •         •                 73    Distribution of the principal Pathdn Tribes for
+  Proportion of its population Indigenous to each                                    Districts and States
+      District, arranged in order of magnitude ' .                          .7+    Jats, Rajputs, and allied castes for Districts and
+ Proportion of its population Indigenous to each                                     States        .   ,    .   *     •    .    .    .
+     State, arranged in order of magnitude .                                 75
+                                                                          STATISTICAL            ABSTRACTS.
+
+
+
+    K„.
+
+
+      7-'     Other     Castes returned
+                                           SviJicr.
+
+
+                                               as Jells in M t t l l a n a n d the
+                                                                                        Vtf.
+
+
+
+                                                                                         234
+                                                                                                 1 --
+                                                                                                  .,
+                                                                                                  11(1
+                                                                                                         Civil
+                                                                                                                                          >,„.„
+                                                                                                                 condition by So.s and Age lor Keiigions
+                                                                                                                           if the Sac: c o m p a r e d at ,.<i/uV-
+                                                                                                                                                                   ;                          sin
+
+              •Jut Tribes of Ik'       Western Plains              .                     2:b              ent Aires for Ifcltnons    and D'voi..n-         .
+      73
+                                        !IV.*/erij Sub-montane             .             2.S             Ci-.-il Condition   in Toscus and Villages for D . .
+                                                                                                                                                                                              !'•.)
+      74                                                                                          117
+      75        ',!     „     ., ,. Sitlt Tract                  .      .      .    .    231                virions        .                                                                 304
+                              ,. ,. Eastern Sitb-montaue                   .             -Vi      118    Proportions        of Wives to 1 Imbands f-r pel.•,•:"-
+     77                                SoUtli-E.islern           Districts               235               u o s a i x l DIVOIUIT,       .   .   .  '   .      .    .                         .V'4
+     ?8       Tribes entered bath as fat and as Kdiptil                                  -'37     tig    Proportion       of tin- Sens at rod: Age fur Divi-
+     7o       Relihul Tribes at' the Eastern              Plains                         J.'.O             sion- ein,l Pelioions                                                             3'' 7
+     8,.                                     Western                                     242      120    Proportion       of the Sexes in the firs! fve l o i r s of
+     81                                               Hills        .                     246               life for Division* a m i Re.:i;l..ns       .                                      3(.3
+     S2                   .,       ,. .. Eastern          „        .       .       .     i.iO     121    Proportions       of the S, ces In .a. a Co,to                                      Si2
+     81       Minor Dominant          Tribes fur D i s t r i c t s a n d S t a l e s     234      122    Oiciif-atiCs       'of Males lor DiM-ion*. T o w n - .
+              Uni.ir Tribes [nr D o t r i c t s                                          l-6 4             a n d Yill.tccs                                                                    .So
+     si
+     Ss       Minor Agricultural            and rust, nil Tribes                         200      1-3    Composition           of   the   Agricultural           and           Pa-tirol
+     So       Ardm Clans                                                                 2I'.„             Class f,.r Divisions, r , , i , n - . a n d V i l l a i n s .                      vSl
+     87       Foreign Races               .     .     .      .       .       .     .     2 74     124    Combined occupations      lor ilia], ~ over 15 yv:,i-
+     S3       rritstlv    and Ascetic Classes for Districts a n d                                           0! a e e       .   .       .         .     .       .         . .                  S3"!
+                State's                                                                  2S0      1 -^   Occupations    of Females fur Divisions                                              3-'*
+     89       Brdlnnan     Divisions       for Districts a n d S l a t e s .             282      ,20    Proportuoi   of malcChildeca           tu lut.Vioi aii :10c -
+              Miner Pret'esstenal          castes               .      .      .    .     2SS                 folh'Ulug           all It JOS'         of eCClipO'lon       •                     39"
+     9°
+     9>       Mercantile     and Shop-keeping           castes .                         292      127    Educational              Diparloicul           and Casus             teres       l,.r
+              Divisions    of the Kliatrls                      .      .      .    .     20t»               Districts c o m p a r e d                                                           401
+     9-
+     95                               Aroros                    .      .      .    .     298      12S    Educated proportion                    of population         \-r D'.s'ri, ts
+     94       Castes'ef Carriers, Pedlars.Hfc                                            300                a n d S t a l e s , a r r a n c u d in o r d e r ul ni.'ic: ".u,de                  4"3
+     95       Miscellaneous       castes for Districts a n d S t a t e s           .     302      129    Education             among the fotloveers               of each           li./ioi,..
+     90       Wandering        and Criminal         Tribes [or Districts                                    lor D i v o i o n s . "                                                             4"4
+                a n d States                                                             3°9      130    Male education in 106S and tXttl for Di-tricls .                                       4"7
+     97       Classes registered        under the Criminal                 Tribes'                •3'    X umber of Insane in !•-.'•••< and USUI for District
+                Act for Districts                                                        312                a n d S t a l e s , a r r a n g e d in o r d e r 0! m n e n i u i d e               40S
+              Cipsv Tribes for D i s t r i c t s a n d S t a l e s                       3 "5            Insanity            by Religion for Divisions                     ."                   410
+     08                                                                                           13-
+     99       Scavenger castes                                                           318      133                            Afe              ,,               .     .       .      .     . 4tu
+    too       Castes of Leiither-a-orkers         and Weavers             •              o^'      134    Xinnber of B'liud in 1S6S and tS.st fur District
+    JOI                 „ ilii/errj^'j; for Districts a n d S t a t e s .                3-4                a n d S t a t e s , a r r a n g e d in o r d e r ul m a g n i t u d e               4'I
+    102       Blacksmith,       Carpenter,     and Potter castes                         327      '35    Blindness            by Religion for Divisions /                                       412
+    I O
+          3   Castes'.corking      In other Metals and Minerals                     .    331      136                         ,, Ace                                                            4'-t
+    104       Washermen, 'Dyers, and              Tailors                                33=      '37    Xuinber of Deal and Dumb in tSbSand                                       J.Ml f.
+    105                                                                                  334                D i s t r i c t s a n d S t a l e s , a r r a n g e d in o r d e r ol m a g
+    106       Menials of the Hills                                                       337                nitude                                                                              413
+    107       Ptirbia Mentals                                                            341      138    Deaf-dumbness               by Religion for Divisions .                                414
+    108       Age tie-tires, and Death-rates             from      18-j to      tSSi              139                                      Atje                                                 415
+                                                                                         3+4      140    Number of Lepers in 1S6S and 1SS1 lor District s
+    lOO,      Ages In Europe and the         Paujab                                      346                a n d S t a t e s , a r r a n g e d in o r d e r of m a g n i l u d e               416
+•   I 10      Distribution    by Age of every 70,000 males for                                    1/1    Lcprosy by Religion                    for Divisions                                   417
+                Divisions.            .'    .     .   .    .                             347      142         .,           ,, Aire                      ,,                  .        .          417
+    it 1      Age statistics   for the males of each Religion    .                       348      '43     Number and'Siee of Census Blocks [or Districts                                        427
+    112       Male and Female Agefgttres        compared .                               35°      144    Census Agency                for'Distncts                                              429
+    "3        Distribution     by Age of Males      and    Females                                •45     Characters written by Enumerators                              for District           434
+               under 30 -years old                                                       351      146     Issue of Private Schedules for Districts                                              443
+    114       Civil condition    by Sex and Age for Divisions .                          35S
+

@@ -1,0 +1,12 @@
+Documents: ibbetson1881_1_preface, ibbetson1881_2_results, ibbetson1881_3_operations, ibbetson1881_4_suppl_tables_appC, ibbetson1881_5_instructions_appD, ibbetson1881_6_vernacular_index
+Distinct words overall: 33,855
+Words common to all documents (>= 3 each): 7
+
+Top 20 common words (combined count):
+  information: 184
+  accuracy: 102
+  content: 46
+  registered: 33
+  francis: 30
+  taylor: 30
+  views: 30

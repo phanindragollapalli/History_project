@@ -1,0 +1,94 @@
+# ==============================================================================
+# Git Ignore Configuration for History Project
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Python Virtual Environments
+# ------------------------------------------------------------------------------
+.venv/
+.venv/**
+**/.venv/
+**/.venv/**
+venv/
+**/venv/
+env/
+**/env/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------------------------------------------------------
+# 2. Python Bytecode & Cache
+# ------------------------------------------------------------------------------
+__pycache__/
+**/__pycache__/
+**/__pycache__/**
+*.py[cod]
+**/*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+**/.pytest_cache/
+.mypy_cache/
+**/.mypy_cache/
+.ruff_cache/
+**/.ruff_cache/
+
+# ------------------------------------------------------------------------------
+# 3. Sensitive Credentials & API Keys
+# ------------------------------------------------------------------------------
+# In this repo, 1961 cenus/village surveys/key.txt holds a private API key
+key.txt
+*key*.txt
+*.key
+*.pem
+.env
+.env.*
+secrets.json
+
+# ------------------------------------------------------------------------------
+# 4. Backup & Temporary Files
+# ------------------------------------------------------------------------------
+# Backup files from qpdf decryption (e.g. *.encrypted.bak)
+*.bak
+*.encrypted.bak
+*.tmp
+*.tmp_*
+*~
+*.swp
+*.swo
+
+# ------------------------------------------------------------------------------
+# 5. Operating System & IDE Files
+# ------------------------------------------------------------------------------
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------------------------------------------------------
+# 6. Build, Logs & Local Caches
+# ------------------------------------------------------------------------------
+*.log
+.cache/
+translations_cache.json
+build/
+dist/
+*.egg-info/
+.eggs/
