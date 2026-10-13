@@ -1,0 +1,2 @@
+﻿record_id,source_id,source_year,geographic_level,geographic_entity,table_or_page_ref,category_raw,sub_category_raw,metric_type,metric_value_standardized,metric_unit,standardized_variable_name,normalized_caste_or_occupation,comparability_flag,audit_status,notes_and_context
+REC_024,SRC_PUNJ_CENS_1931,1931,regional_state,Chamba State,"p. 112, Sub Table X",13 Chamba,Number of Occupied Houses,houses,30665,occupied_houses,Occupied houses,Housing,partly_comparable,checked,"30,665 occupied houses across Chamba State; average 4.79 persons per house"

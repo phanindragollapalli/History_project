@@ -1,0 +1,2 @@
+﻿record_id,source_id,source_year,geographic_level,geographic_entity,table_or_page_ref,category_raw,sub_category_raw,metric_type,metric_value_standardized,metric_unit,standardized_variable_name,normalized_caste_or_occupation,comparability_flag,audit_status,notes_and_context
+REC_025,SRC_PUNJ_CENS_1881,1881,regional_state,Chamba State,"p. 153, Table IX",Chamba,Chambiali dialect,language_speakers,104469,speakers,Chambiali,Language,not_comparable,checked,"104,469 returned Chambiali/Dogri as mother tongue; Ibbetson notes difficulty in separating caste from tribe in hills"
