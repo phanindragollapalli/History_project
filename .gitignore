@@ -1,1 +1,9 @@
 his/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc

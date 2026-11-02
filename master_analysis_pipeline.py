@@ -25,7 +25,9 @@ TIMELINE_SCRIPTS = [
     ("1931 Punjab Census", HERE / "1931 census" / "analysis_1931.py"),
     ("1961 Village Surveys", HERE / "1961 cenus/village surveys" / "analysis_1961.py"),
     ("Harmonized Datasets & Crosswalks", HERE / "build_curated_datasets.py"),
-    ("Visual Figures Rendering", HERE / "generate_figures.py")
+    ("Visual Figures Rendering", HERE / "generate_figures.py"),
+    ("Phase 3 Source Audit & Evidence Register", HERE / "audit_and_evidence_register.py"),
+    ("Phase 3 Computational Analysis & Thematic Coding", HERE / "phase3_computational_analysis.py")
 ]
 
 # Execute each analysis module in sequence and verify all research deliverables
@@ -90,7 +92,13 @@ def run_master_pipeline():
         # Rendered Visual Figures (300 DPI)
         HERE / "outputs" / "figures" / "fig1_1961_village_mentions_normalized.png",
         HERE / "outputs" / "figures" / "fig2_livestock_ecological_distribution.png",
-        HERE / "outputs" / "figures" / "fig3_bipartite_economic_exchange.png"
+        HERE / "outputs" / "figures" / "fig3_bipartite_economic_exchange.png",
+        # Phase 3 Targeted Computational Deliverables & Registers
+        HERE / "outputs" / "tables" / "final_evidence_register.csv",
+        HERE / "outputs" / "tables" / "comparative_village_economy.csv",
+        HERE / "outputs" / "tables" / "exchange_network_edges.csv",
+        HERE / "outputs" / "tables" / "classification_crosswalk_1881_1961.csv",
+        HERE / "outputs" / "tables" / "thematic_coding_passages.csv"
     ]
 
     all_exist = True
