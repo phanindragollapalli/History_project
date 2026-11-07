@@ -89,42 +89,63 @@ print(f'Rendered Figure 1: {fig1_path}')
 
 # Figure 2: Livestock Composition and Ecological Ceilings Across Study Villages (1961)
 # Demonstrates the strict environmental constraints governing animal husbandry:
-# High-altitude Brahmaur relies overwhelmingly on transhumant sheep and goats (4,484 head),
-# whereas water buffaloes are entirely absent due to severe winter cold and lactation drop (PAS_002).
-# Conversely, water buffaloes are concentrated exclusively in sub-Himalayan Maingal (217 head).
-fig, ax = plt.subplots(figsize=(10, 6), dpi=300)
+# Normalized per villager (per capita) to eliminate village population scale skew
+# while demonstrating that water buffaloes are entirely absent in alpine Brahmaur
+# and concentrated exclusively in sub-Himalayan Maingal.
+fig, ax = plt.subplots(figsize=(10, 6.2), dpi=300)
 
-villages = ['Brahmaur (~7,000 ft)\nHigh Alpine Valley', 'Chitrari (~5,800 ft)\nTerraced River Basin', 'Maingal (~4,000 ft)\nSub-Himalayan Forest']
-sheep_goats = [4484, 123, 275]
-buffaloes = [0, 0, 217]
-cattle_bullocks = [477, 155, 126]
+villages = ['Brahmaur (~7,000 ft)\nHigh Alpine Valley\n(Pop: 721)', 
+            'Chitrari (~5,800 ft)\nTerraced River Basin\n(Pop: 404)', 
+            'Maingal (~4,000 ft)\nSub-Himalayan Forest\n(Pop: 249)']
+pop = [721, 404, 249]
+
+raw_sheep = [4484, 123, 275]
+raw_buff = [0, 0, 217]
+raw_catt = [477, 155, 126]
+
+sheep_goats = np.array(raw_sheep) / np.array(pop)
+buffaloes = np.array(raw_buff) / np.array(pop)
+cattle_bullocks = np.array(raw_catt) / np.array(pop)
+totals = sheep_goats + buffaloes + cattle_bullocks
 
 x = np.arange(len(villages))
-width = 0.25
+width = 0.24
 
 r1 = ax.bar(x - width, sheep_goats, width, label='Sheep & Goats (Pastoral Transhumance)', color='#4682b4', edgecolor='black', linewidth=0.8)
 r2 = ax.bar(x, buffaloes, width, label='Water Buffaloes (Forest Dairying)', color='#8b0000', edgecolor='black', linewidth=0.8)
 r3 = ax.bar(x + width, cattle_bullocks, width, label='Cattle / Draft Bullocks (Terrace Plowing)', color='#daa520', edgecolor='black', linewidth=0.8)
 
-ax.set_ylabel('Total Livestock Count (Head of Cattle/Flock)', fontsize=12, fontweight='bold', labelpad=10)
-ax.set_title('Figure 2: Livestock Ecology and Altitudinal Ceilings in Chamba District (1961)\nComplete Absence of Water Buffaloes in Brahmaur vs. Concentration in Sub-Himalayan Maingal', fontsize=13, fontweight='bold', pad=15)
+ax.set_ylabel('Average Livestock Count per Villager (Head / Capita)', fontsize=12, fontweight='bold', labelpad=10)
+ax.set_title('Figure 2: Average Livestock Ownership per Villager across Altitudinal Zones (1961)\nNormalized Herd Composition and Ecological Ceilings in Chamba District', fontsize=12.5, fontweight='bold', pad=15)
 ax.set_xticks(x)
-ax.set_xticklabels(villages, fontsize=11, fontweight='semibold')
-ax.legend(frameon=True, facecolor='#f8f9fa', edgecolor='#cccccc', fontsize=10, loc='upper right')
+ax.set_xticklabels(villages, fontsize=10.5, fontweight='bold')
+ax.legend(frameon=True, facecolor='#f8f9fa', edgecolor='#cccccc', fontsize=9.5, loc='upper right')
 
 for rects in [r1, r2, r3]:
     for rect in rects:
         h = rect.get_height()
         if h > 0:
-            ax.annotate(f'{h}',
+            ax.annotate(f'{h:.2f}',
                         xy=(rect.get_x() + rect.get_width() / 2, h),
                         xytext=(0, 3),
                         textcoords="offset points",
                         ha='center', va='bottom', fontsize=9, fontweight='bold')
 
-fig.text(0.12, 0.01,
-         'Source: Dataset A (quantitative_records.csv), Records REC_007, REC_010, REC_017, REC_023.\nHistorical Explanation: Extreme alpine winter cold causes severe lactation collapse in water buffaloes (dropping from 9 to 4 seers/day, PAS_002), restricting them to lower elevations.',
-         fontsize=8, style='italic', color='#444444')
+for i, tot in enumerate(totals):
+    max_h = max(sheep_goats[i], buffaloes[i], cattle_bullocks[i])
+    ax.annotate(f'Total: {tot:.2f} per villager\n(Total Herd: {raw_sheep[i]+raw_buff[i]+raw_catt[i]})',
+                xy=(x[i], max_h + 0.45),
+                xytext=(0, 0),
+                textcoords='offset points',
+                ha='center', va='bottom', fontsize=8.5, fontweight='bold',
+                bbox=dict(boxstyle='round,pad=0.35', facecolor='#eef2f7', edgecolor='#4682b4', alpha=0.95))
+
+ax.set_ylim(0, 7.8)
+ax.grid(axis='y', linestyle='--', alpha=0.5)
+
+fig.text(0.08, 0.015,
+         'Source: Census of India 1961 Village Surveys (Brahmaur: 721 pop; Chitrari: 404 pop; Maingal: 249 pop).\nMethodological Note: Normalized per villager (per capita) to eliminate settlement population skew while reflecting strict ecological ceilings on buffaloes.',
+         fontsize=7.8, style='italic', color='#333333')
 
 plt.tight_layout(rect=[0, 0.05, 1, 1])
 fig2_path = str(FIGURES_DIR / 'fig2_livestock_ecological_distribution.png')
